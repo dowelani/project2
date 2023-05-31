@@ -1,0 +1,3007 @@
+Aaron Staton,Aidan Gillen,Al Brown,Alexandra Ella,Alfie Allen,Alfonso Christian Lover,Alison Brie,Anatol Yusef,Audrey Wasilewski,Chris Bauer,Clifton Collins Jr.,Edwina Findley,Elyes Gabel,Fernanda Urrejola,Fintan McKeown,Francis Magee,Gary D'Addario,James Earl,James Faulkner,Jeannie Berlin,Juan Pablo Raba,Kerr Logan,Kristian Nairn,Larry Pine,Leo Fitzpatrick,Maestro Harrell,Melanie Nicholls-King,Mia Soteriou,Michael Pitt,Morgan Spector,Noah Taylor,Pedro Pascal,Peter Krause,Pilou Asbæk,Ramón Rodríguez,Richard Dormer,Sanaa Lathan,Teyonah Parris,Tim Plester,Tyrell Baker
+Edwina Findley==Chris Bauer
+Michael Pitt==Alison Brie
+Ramón Rodríguez==Chris Bauer
+Kerr Logan==Noah Taylor
+Leo Fitzpatrick==Chris Bauer
+Fernanda Urrejola==Maestro Harrell
+Edwina Findley==James Earl
+James Earl==Gary D'Addario
+Anatol Yusef==Aidan Gillen
+Leo Fitzpatrick==Melanie Nicholls-King
+Alexandra Ella==Jeannie Berlin
+Edwina Findley==Jeannie Berlin
+Sanaa Lathan==Clifton Collins Jr.
+Pedro Pascal==Kerr Logan
+Pilou Asbæk==Elyes Gabel
+Pilou Asbæk==Aaron Staton
+Richard Dormer==Melanie Nicholls-King
+Tyrell Baker==Melanie Nicholls-King
+Alfonso Christian Lover==Mia Soteriou
+Sanaa Lathan==Alison Brie
+Melanie Nicholls-King==Pedro Pascal
+Jeannie Berlin==Noah Taylor
+Tyrell Baker==Chris Bauer
+Tim Plester==Teyonah Parris
+Richard Dormer==Elyes Gabel
+Fintan McKeown==Kristian Nairn
+James Earl==Fernanda Urrejola
+Al Brown==Fernanda Urrejola
+Larry Pine==Sanaa Lathan
+Tim Plester==Melanie Nicholls-King
+Alfie Allen==Alfonso Christian Lover
+Alfonso Christian Lover==Al Brown
+Jeannie Berlin==Larry Pine
+Leo Fitzpatrick==Alexandra Ella
+#
+Alan Ruck,Alberto Ammann,Alfie Allen,Amrita Acharia,Andre Royo,Andres Londono,Anne Dudek,Anthony Laciura,Arturo Castro,Audrey Wasilewski,Ben Feldman,Bill Zorzi,Bobby Canavale,Brandy Burre,Brenock O'Connor,Brett Cullen,Brian Markinson,Bus Howard,Carlos Camacho,Carolina Gaitán,Charlie Hofheimer,Chris Bauer,Christine Estabrook,Corey Parker Robinson,Dagmara Domińczyk,David Proval,Diana Rigg,Diego Luna,Domenick Lombardozzi,Dominic West,Dravon James,Enid Graham,Eric Bogosian,Faye Marsay,Fintan McKeown,Flavio Medina,Gabriela de la Garza,Gastón Velandia,Gustaf Skarsgård,Hannah Waddingham,Hiam Abbass,Hiroyuki Sanada,Hope Davis,James Marsden,Jamie Hector,Jimmi Simpson,John Slattery,Jon-Michael Ecker,Jonathan Tucker,Jose Zuniga,Joseph Gatt,Joseph Siravo,Judy Reyes,Julianne Nicholson,Julio Cesar Cedillo,Justin Burley,Laura Perico,Lev Gorn,Linda Emond,Lorraine Bracco,Mark Moses,Max Casella,Mayra Hermosillo,Megan Parkinson,Michael Kostroff,Michael Willis,Oliver Bell,Orlando Valenzuela,Pedro Pascal,Peter Krause,Rob Callender,Robert Clohessy,Rose Leslie,Sebastián Buitrón,Sophie Turner,Steve Buscemi,Talia Balsam,Talulah Riley,Tao Okamoto,Tim Plester,Tobias Menzies,Will Tudor
+Sophie Turner==Amrita Acharia
+Talia Balsam==Rose Leslie
+Joseph Gatt==Bill Zorzi
+Audrey Wasilewski==Fintan McKeown
+Dominic West==Julio Cesar Cedillo
+Gabriela de la Garza==Arturo Castro
+Corey Parker Robinson==Gustaf Skarsgård
+Mayra Hermosillo==Brett Cullen
+Jon-Michael Ecker==Bus Howard
+Jose Zuniga==Fintan McKeown
+Jamie Hector==Brett Cullen
+Alan Ruck==Will Tudor
+Diego Luna==Julio Cesar Cedillo
+Jon-Michael Ecker==Julio Cesar Cedillo
+Joseph Gatt==Brandy Burre
+Gabriela de la Garza==Peter Krause
+Hope Davis==Michael Kostroff
+Orlando Valenzuela==Chris Bauer
+Domenick Lombardozzi==Hope Davis
+Andres Londono==Tao Okamoto
+Bobby Canavale==Talulah Riley
+David Proval==Andres Londono
+Linda Emond==Eric Bogosian
+Domenick Lombardozzi==Alan Ruck
+Joseph Gatt==Laura Perico
+Robert Clohessy==Andre Royo
+Hiam Abbass==Brenock O'Connor
+Arturo Castro==Rob Callender
+Eric Bogosian==Lev Gorn
+Rose Leslie==Jamie Hector
+Bill Zorzi==Bus Howard
+Diana Rigg==Laura Perico
+Hiroyuki Sanada==Pedro Pascal
+Anthony Laciura==Brandy Burre
+Andres Londono==Fintan McKeown
+Max Casella==Dagmara Domińczyk
+Ben Feldman==Brett Cullen
+David Proval==Jamie Hector
+Anne Dudek==Sophie Turner
+Diana Rigg==Andre Royo
+Jimmi Simpson==Flavio Medina
+Rose Leslie==Audrey Wasilewski
+Brian Markinson==Bill Zorzi
+Bus Howard==Anne Dudek
+Justin Burley==Talulah Riley
+Rose Leslie==Dagmara Domińczyk
+Orlando Valenzuela==Brett Cullen
+Hope Davis==Mark Moses
+Carlos Camacho==Charlie Hofheimer
+Amrita Acharia==Michael Willis
+Talia Balsam==Dominic West
+Amrita Acharia==Hope Davis
+Andres Londono==Orlando Valenzuela
+Lorraine Bracco==Bill Zorzi
+Will Tudor==Rose Leslie
+Carolina Gaitán==Brenock O'Connor
+Linda Emond==Faye Marsay
+Joseph Siravo==Lorraine Bracco
+Gastón Velandia==Robert Clohessy
+Brett Cullen==Gastón Velandia
+Alfie Allen==Mayra Hermosillo
+Jon-Michael Ecker==Bobby Canavale
+Bus Howard==Linda Emond
+Will Tudor==Amrita Acharia
+Bus Howard==Will Tudor
+Steve Buscemi==James Marsden
+Tobias Menzies==Carolina Gaitán
+Hiroyuki Sanada==Arturo Castro
+Enid Graham==Laura Perico
+Dravon James==Orlando Valenzuela
+Carolina Gaitán==Jamie Hector
+Jon-Michael Ecker==Brett Cullen
+Anthony Laciura==Talia Balsam
+Tobias Menzies==Dravon James
+Rob Callender==Audrey Wasilewski
+Alfie Allen==Linda Emond
+Christine Estabrook==Andre Royo
+Gustaf Skarsgård==Arturo Castro
+Tao Okamoto==Bobby Canavale
+#
+Aidan Gillen,Alberto Zeni,Antonio Cordova,Art Parkinson,Ben Feldman,Ben Rosenfield,Benito Antonio Martínez Ocasio,Brian Cox,Brian Geraghty,Bruce Greenwood,Cristina Umaña,Dasha Nekrasova,Dominic Chianese,Elizabeth Webster,Emun Elliott,Eric Gershowitz,Eric Lange,Flavio Medina,Frederick Strother,Gastón Velandia,Harry Hamlin,Holly Hunter,Iain Glen,Ian Beattie,James Faulkner,Jay R. Ferguson,Joe Pantoliano,Jonnie Louis Brown,Joseph Siravo,Julián Díaz,Kerry Bishé,Kristen Gutoskie,Kristofer Hivju,Larry Gilliard; Jr.,Lauren Ambrose,Leonardo Nam,Lev Gorn,Manuel Uriza,Maureen Van Zandt,Michael Kenneth Williams,Michael Stone Forrest,Michael Willis,Mike Doyle,Nancy Marchand,Peter Vaughan,Pêpê Rapazote,Rich Sommer,Robert Clohessy,Ron Donachie,Ryan Sands,Sam Page,Sanaa Lathan,Stacie Davis,Stephen Dillane,Stephen Graham,Steve Buscemi,Steven Ogg,Susan Brown,Tara Fitzgerald,Teresa Ruiz,Tessa Ia,Toni Kalem,Vladimir Furdik,Wendy Grantham,Wilko Johnson,Yul Vazquez,Zahn McClarnon
+Ben Feldman==Jay R. Ferguson
+Steven Ogg==Ron Donachie
+Harry Hamlin==Lev Gorn
+Sam Page==Kristen Gutoskie
+Brian Cox==Wilko Johnson
+Larry Gilliard; Jr.==Holly Hunter
+Michael Stone Forrest==Wendy Grantham
+Benito Antonio Martínez Ocasio==Rich Sommer
+Kristofer Hivju==Bruce Greenwood
+Nancy Marchand==Frederick Strother
+Sanaa Lathan==James Faulkner
+Lev Gorn==Emun Elliott
+Benito Antonio Martínez Ocasio==Michael Stone Forrest
+Eric Gershowitz==Iain Glen
+Wilko Johnson==Frederick Strother
+Leonardo Nam==Toni Kalem
+Steven Ogg==Iain Glen
+Antonio Cordova==Manuel Uriza
+Steve Buscemi==Ben Feldman
+Vladimir Furdik==Susan Brown
+Julián Díaz==Bruce Greenwood
+James Faulkner==Pêpê Rapazote
+Stephen Dillane==Tara Fitzgerald
+Harry Hamlin==Julián Díaz
+Joe Pantoliano==Brian Cox
+Joe Pantoliano==Vladimir Furdik
+Rich Sommer==Lauren Ambrose
+Flavio Medina==Pêpê Rapazote
+Leonardo Nam==Iain Glen
+Flavio Medina==Mike Doyle
+Benito Antonio Martínez Ocasio==Nancy Marchand
+Michael Stone Forrest==Eric Lange
+Dominic Chianese==Julián Díaz
+Jay R. Ferguson==Peter Vaughan
+Gastón Velandia==Tara Fitzgerald
+Eric Gershowitz==Joseph Siravo
+Wilko Johnson==Joseph Siravo
+Ryan Sands==Leonardo Nam
+Jonnie Louis Brown==Ben Rosenfield
+Lev Gorn==Julián Díaz
+Zahn McClarnon==Steve Buscemi
+Holly Hunter==Rich Sommer
+Steven Ogg==Eric Lange
+Emun Elliott==Brian Geraghty
+Leonardo Nam==Aidan Gillen
+Brian Geraghty==Holly Hunter
+Brian Cox==Art Parkinson
+Cristina Umaña==Maureen Van Zandt
+Susan Brown==Aidan Gillen
+Joseph Siravo==Michael Kenneth Williams
+Kristen Gutoskie==Harry Hamlin
+Teresa Ruiz==Robert Clohessy
+Tara Fitzgerald==Ben Feldman
+Benito Antonio Martínez Ocasio==Nancy Marchand
+Flavio Medina==Lev Gorn
+Gastón Velandia==Mike Doyle
+Iain Glen==Zahn McClarnon
+Iain Glen==James Faulkner
+Pêpê Rapazote==Sanaa Lathan
+Joseph Siravo==Brian Cox
+#
+Aidan Gillen,Alberto Zeni,Antonio Cordova,Art Parkinson,Ben Feldman,Ben Rosenfield,Benito Antonio Martínez Ocasio,Brian Cox,Brian Geraghty,Bruce Greenwood,Cristina Umaña,Dasha Nekrasova,Dominic Chianese,Elizabeth Webster,Emun Elliott,Eric Gershowitz,Eric Lange,Flavio Medina,Frederick Strother,Gastón Velandia,Harry Hamlin,Holly Hunter,Iain Glen,Ian Beattie,James Faulkner,Jay R. Ferguson,Joe Pantoliano,Jonnie Louis Brown,Joseph Siravo,Julián Díaz,Kerry Bishé,Kristen Gutoskie,Kristofer Hivju,Larry Gilliard; Jr.,Lauren Ambrose,Leonardo Nam,Lev Gorn,Manuel Uriza,Maureen Van Zandt,Michael Kenneth Williams,Michael Stone Forrest,Michael Willis,Mike Doyle,Nancy Marchand,Peter Vaughan,Pêpê Rapazote,Rich Sommer,Robert Clohessy,Ron Donachie,Ryan Sands,Sam Page,Sanaa Lathan,Stacie Davis,Stephen Dillane,Stephen Graham,Steve Buscemi,Steven Ogg,Susan Brown,Tara Fitzgerald,Teresa Ruiz,Tessa Ia,Toni Kalem,Vladimir Furdik,Wendy Grantham,Wilko Johnson,Yul Vazquez,Zahn McClarnon
+Ben Feldman==Jay R. Ferguson
+Steven Ogg==Ron Donachie
+Harry Hamlin==Lev Gorn
+Sam Page==Kristen Gutoskie
+Brian Cox==Wilko Johnson
+Larry Gilliard; Jr.==Holly Hunter
+Michael Stone Forrest==Wendy Grantham
+Benito Antonio Martínez Ocasio==Rich Sommer
+Kristofer Hivju==Bruce Greenwood
+Nancy Marchand==Frederick Strother
+Sanaa Lathan==James Faulkner
+Lev Gorn==Emun Elliott
+Benito Antonio Martínez Ocasio==Michael Stone Forrest
+Eric Gershowitz==Iain Glen
+Wilko Johnson==Frederick Strother
+Leonardo Nam==Toni Kalem
+Steven Ogg==Iain Glen
+Antonio Cordova==Manuel Uriza
+Steve Buscemi==Ben Feldman
+Vladimir Furdik==Susan Brown
+Julián Díaz==Bruce Greenwood
+James Faulkner==Pêpê Rapazote
+Stephen Dillane==Tara Fitzgerald
+Harry Hamlin==Julián Díaz
+Joe Pantoliano==Brian Cox
+Joe Pantoliano==Vladimir Furdik
+Rich Sommer==Lauren Ambrose
+Flavio Medina==Pêpê Rapazote
+Leonardo Nam==Iain Glen
+Flavio Medina==Mike Doyle
+Benito Antonio Martínez Ocasio==Nancy Marchand
+Michael Stone Forrest==Eric Lange
+Dominic Chianese==Julián Díaz
+Jay R. Ferguson==Peter Vaughan
+Gastón Velandia==Tara Fitzgerald
+Eric Gershowitz==Joseph Siravo
+Wilko Johnson==Joseph Siravo
+Ryan Sands==Leonardo Nam
+Jonnie Louis Brown==Ben Rosenfield
+Lev Gorn==Julián Díaz
+Zahn McClarnon==Steve Buscemi
+Holly Hunter==Rich Sommer
+Steven Ogg==Eric Lange
+Emun Elliott==Brian Geraghty
+Leonardo Nam==Aidan Gillen
+Brian Geraghty==Holly Hunter
+Brian Cox==Art Parkinson
+Cristina Umaña==Maureen Van Zandt
+Susan Brown==Aidan Gillen
+Joseph Siravo==Michael Kenneth Williams
+Kristen Gutoskie==Harry Hamlin
+Teresa Ruiz==Robert Clohessy
+Tara Fitzgerald==Ben Feldman
+Benito Antonio Martínez Ocasio==Nancy Marchand
+Flavio Medina==Lev Gorn
+Gastón Velandia==Mike Doyle
+Iain Glen==Zahn McClarnon
+Iain Glen==James Faulkner
+Pêpê Rapazote==Sanaa Lathan
+Joseph Siravo==Brian Cox
+#
+Aaron Staton,Alejandro Edda,Angela Sarafyan,Anna Katarina,Anwan Glover,Ben Feldman,Bobby Soto,Carl Capotorto,Chris Bauer,Donald Neal,Erik LaRay Harvey,Forbes KB,Frank Vincent,Glynn Turman,Greg Antonacci,Holly Hunter,Ian Hanmore,Isaac Hempstead Wright,J. D. Williams,Jeannie Berlin,Jeremy Strong,John Bradley,John Gallagher Jr.,Jon-Michael Ecker,Juan Sebastián Calero,Julio Cesar Cedillo,Kevin Rahm,Lenny Jacobson,Leonard A. Anderson,Luis Guzmán,Melinda Page Hamilton,Michael Gladis,Nicholas Braun,Paulina García,Peter Friedman,Rashad Orange,Richard E. Grant,Robert Morse,Stephanie Drake,Steven Van Zandt,Taylor King,Thuliso Dingwall,Vincent Pastore,Wendell Pierce,Wendy Grantham,Yul Vazquez
+Ben Feldman==Yul Vazquez
+Lenny Jacobson==Anna Katarina
+John Bradley==Melinda Page Hamilton
+Kevin Rahm==Carl Capotorto
+Forbes KB==Alejandro Edda
+Anna Katarina==Bobby Soto
+Vincent Pastore==Jon-Michael Ecker
+Carl Capotorto==Donald Neal
+Frank Vincent==Wendell Pierce
+Jeremy Strong==Ben Feldman
+Angela Sarafyan==Ben Feldman
+Anwan Glover==Rashad Orange
+Vincent Pastore==Thuliso Dingwall
+Jeremy Strong==Kevin Rahm
+John Bradley==Angela Sarafyan
+Jeremy Strong==Paulina García
+Paulina García==Erik LaRay Harvey
+Ben Feldman==Juan Sebastián Calero
+Michael Gladis==J. D. Williams
+Ian Hanmore==Carl Capotorto
+Anwan Glover==Rashad Orange
+Bobby Soto==Jeremy Strong
+Jeannie Berlin==Chris Bauer
+Jon-Michael Ecker==Taylor King
+Nicholas Braun==Jeannie Berlin
+Forbes KB==Lenny Jacobson
+Glynn Turman==Anna Katarina
+Holly Hunter==Anna Katarina
+Angela Sarafyan==Yul Vazquez
+Carl Capotorto==J. D. Williams
+Bobby Soto==Glynn Turman
+Forbes KB==Peter Friedman
+Anwan Glover==Bobby Soto
+Donald Neal==Glynn Turman
+Frank Vincent==Jeannie Berlin
+Wendell Pierce==Juan Sebastián Calero
+Isaac Hempstead Wright==Yul Vazquez
+Forbes KB==Stephanie Drake
+Yul Vazquez==Taylor King
+#
+Alexander Siddig,Anthony Laciura,Ben Feldman,Benito Antonio Martínez Ocasio,Benjamin Busch,Carice van Houten,Charley Scalies,Charlie Cox,Christian Tappan,Damayanti Quintanar,Diego Calva,Enrico Colantoni,Essie Davis,Fisher Stevens,Frankie R. Faison,Gary "D.Reign",Greg Antonacci,Hannah Waddingham,Izabella Alvarez,J. D. Williams,J. Smith-Cameron,James Cromwell,Jeffrey Wright,Jim True-Frost,John Stahl,Jonathan Pryce,Julia Ormond,Keenon Brice,Liam Cunningham,Luis Guzmán,Maisie Dee,Marten Holden Weiner,Michael Stuhlbarg,Myra Turley,Pablo Schreiber,Rachel Griffiths,Ramón Rodríguez,Raymond Ablack,Richard E. Grant,Richard Rycroft,Rob Yang,Robert Morse,Scott Mescudi,Susan Brown,Tessa Thompson,Thomas J. McCarthy,Travis Tope,Troj Marquis Strickland,Vera Mercado,Vincent Pastore,Zack Robidas
+Tessa Thompson==Rob Yang
+Travis Tope==Luis Guzmán
+Marten Holden Weiner==Fisher Stevens
+Myra Turley==Frankie R. Faison
+Frankie R. Faison==Pablo Schreiber
+Hannah Waddingham==Troj Marquis Strickland
+Keenon Brice==Anthony Laciura
+Vincent Pastore==Liam Cunningham
+Izabella Alvarez==Charlie Cox
+Vincent Pastore==Vera Mercado
+Alexander Siddig==Vincent Pastore
+Luis Guzmán==Myra Turley
+Zack Robidas==Jonathan Pryce
+Rob Yang==Jonathan Pryce
+Keenon Brice==Rob Yang
+J. Smith-Cameron==Hannah Waddingham
+Vincent Pastore==Izabella Alvarez
+J. Smith-Cameron==Zack Robidas
+Maisie Dee==Travis Tope
+Richard E. Grant==Thomas J. McCarthy
+Christian Tappan==James Cromwell
+Luis Guzmán==Izabella Alvarez
+Rob Yang==Damayanti Quintanar
+#
+Aidan Gillen,Alfonso Dosal,Anatol Yusef,Andy Beckwith,Annabelle Dexter-Jones,Anne Dudek,Bella Ramsey,Ben Barnes,Benito Antonio Martínez Ocasio,Brandon Price,Bre Blair,Brendan Cowell,Brian Geraghty,Chris Bauer,Clarke Peters,Conleth Hill,Dana Ivey,Daniel Portman,Dar Salim,Dasha Nekrasova,Demetrius Grosse,Derrick Purvey,Donnie Andrews,Ella Rumpf,Ernest Waddell,Frank Vincent,Gerard Jordan,Ian Beattie,Ian Whyte,Idris Elba,Isiah Whitlock; Jr.,James Cromwell,James Landry Hébert,James Ransone,January Jones,Jeremy Strong,Jesse Garcia,Jessy Schram,Joaquín Cosío,Johnnie Mae,Jon-Michael Ecker,Jonathan Tucker,Juan Pablo Raba,Julian Arango,Kelvin Davis,Kerr Logan,Kieran Culkin,Lena Georgas,Luis Gerardo Méndez,Maestro Harrell,Marlyne Afflack,Maureen Van Zandt,Meg Chambers Steedle,Megan Anderson,Melinda Page Hamilton,Mia Arnice Chambers,Michael C. Hall,Nat Benchley,Paul-Mikél Williams,Ramón Rodríguez,Rashad Orange,Rebecca Henderson,Robert Funaro,Robert Wisdom,Rory McCann,Rosemarie DeWitt,Rupert Vansittart,Sam Page,Scott Nicholson,Sibel Kekilli,Steven R. Schirripa,Tara Fitzgerald,Thaddeus Phillips,Tim McInnerny,Tyrell Baker,Wendell Pierce,Wilko Johnson,Zahn McClarnon
+Ernest Waddell==Julian Arango
+Derrick Purvey==Zahn McClarnon
+Wilko Johnson==James Cromwell
+Brendan Cowell==Andy Beckwith
+Tyrell Baker==Rory McCann
+Lena Georgas==Rebecca Henderson
+James Landry Hébert==Dar Salim
+Daniel Portman==Idris Elba
+Chris Bauer==Megan Anderson
+Dar Salim==Robert Wisdom
+Conleth Hill==Ian Beattie
+Jesse Garcia==Dana Ivey
+Tara Fitzgerald==January Jones
+Luis Gerardo Méndez==Aidan Gillen
+James Cromwell==Wilko Johnson
+Alfonso Dosal==Ben Barnes
+Daniel Portman==Andy Beckwith
+Robert Wisdom==Luis Gerardo Méndez
+Mia Arnice Chambers==Andy Beckwith
+Brian Geraghty==Robert Wisdom
+Luis Gerardo Méndez==Andy Beckwith
+Ernest Waddell==Clarke Peters
+Anatol Yusef==Jesse Garcia
+Julian Arango==Brendan Cowell
+Brendan Cowell==Thaddeus Phillips
+Juan Pablo Raba==Meg Chambers Steedle
+Kerr Logan==Dasha Nekrasova
+Johnnie Mae==Rashad Orange
+Ian Whyte==Daniel Portman
+Jonathan Tucker==James Landry Hébert
+Kerr Logan==Luis Gerardo Méndez
+Brandon Price==Annabelle Dexter-Jones
+Meg Chambers Steedle==Tyrell Baker
+Jessy Schram==Steven R. Schirripa
+Jesse Garcia==Kieran Culkin
+Ernest Waddell==Brandon Price
+Maestro Harrell==Lena Georgas
+Dar Salim==Alfonso Dosal
+Tim McInnerny==Michael C. Hall
+Jessy Schram==Megan Anderson
+Julian Arango==Idris Elba
+Gerard Jordan==Ian Beattie
+Nat Benchley==Steven R. Schirripa
+Rosemarie DeWitt==Aidan Gillen
+Maestro Harrell==Melinda Page Hamilton
+Wendell Pierce==Scott Nicholson
+Clarke Peters==Thaddeus Phillips
+Ramón Rodríguez==Maureen Van Zandt
+James Cromwell==Derrick Purvey
+Lena Georgas==Ben Barnes
+Tyrell Baker==Brendan Cowell
+Thaddeus Phillips==Ramón Rodríguez
+Sam Page==Lena Georgas
+Derrick Purvey==Brandon Price
+Tara Fitzgerald==Clarke Peters
+Wendell Pierce==Brian Geraghty
+Dasha Nekrasova==Rebecca Henderson
+Bre Blair==Anatol Yusef
+January Jones==James Ransone
+Joaquín Cosío==Andy Beckwith
+Johnnie Mae==Thaddeus Phillips
+Ian Beattie==Anatol Yusef
+Aidan Gillen==Ramón Rodríguez
+Tim McInnerny==Chris Bauer
+Ernest Waddell==Joaquín Cosío
+Joaquín Cosío==Mia Arnice Chambers
+Alfonso Dosal==Zahn McClarnon
+Dana Ivey==Sam Page
+#
+Aleksa Palladino,Alexander Skarsgård,Alfonso Christian Lover,Anthony Laciura,Antonio Cordova,Art Parkinson,Benjamin Busch,Betty Gabriel,Boris McGiver,Brandan T. Tate,Brett Cullen,Brian Cox,Brian Howe,Carice van Houten,Charley Scalies,Charlie Cox,Christine Estabrook,Daniel Tuite,Deborah Lacey,Demetrius Grosse,Drea de Matteo,Edie Falco,Emilia Clarke,Enid Graham,Ernest Waddell,Faye Marsay,Fernando Bonilla,Fisher Stevens,Francisco Barreiro,Francisco Denis,Frankie R. Faison,Gary "D.Reign",Gary D'Addario,Gorka Lasaosa,Harry Lloyd,Hassan Johnson,Hiam Abbass,Ian McElhinney,Indira Varma,Ivo Nandi,Jack Gleeson,James Faulkner,Jeannie Berlin,Jeffrey Pratt Gordon,Jesús Ochoa,Jonathan Pryce,Jose Zuniga,Judy Reyes,Kelli R. Brown,Kerr Logan,Kiernan Shipka,Lena Headey,Lorenzo Ferro,Luis Gerardo Méndez,Manuel Masalva,Maria Broom,Mark Moses,Mason Vale Cotton,Matthew Macfadyen,Meg Chambers Steedle,Melinda Page Hamilton,Mia Arnice Chambers,Mia Soteriou,Michael Condron,Michael Kenneth Williams,Michael Kostroff,Michael Peña,Michelle Fairley,Natalia Tena,Nikolaj Coster-Waldau,Oona Chaplin,Patricia Arquette,Patrick Cage,Paulina Gaitán,Payman Maadi,Paz de la Huerta,Peter Friedman,Pilou Asbæk,Pom Klementieff,Richard Hildebird,Rob Yang,Ron Donachie,Ron Livingston,Rose Leslie,Sean Bean,Sosie Bacon,Stacie Davis,Stephanie Sigman,Steve Buscemi,Steve Earle,Steven R. Schirripa,Susan Brown,Susan Rome,Taylor King,Tobias Menzies,Vincent Curatola,Wendell Pierce,William Forsythe,Wood Harris,Zack Robidas
+Indira Varma==Meg Chambers Steedle
+Pilou Asbæk==Zack Robidas
+Enid Graham==Mark Moses
+Paulina Gaitán==Oona Chaplin
+Judy Reyes==Pilou Asbæk
+Wendell Pierce==Frankie R. Faison
+Pom Klementieff==Benjamin Busch
+Gorka Lasaosa==Steve Earle
+Mason Vale Cotton==Jonathan Pryce
+Mia Arnice Chambers==Ian McElhinney
+Jesús Ochoa==Lorenzo Ferro
+Fernando Bonilla==Ian McElhinney
+Wendell Pierce==Michael Peña
+Benjamin Busch==Faye Marsay
+Steve Buscemi==Brian Cox
+Lena Headey==Steven R. Schirripa
+Patricia Arquette==Enid Graham
+Michael Kostroff==Gorka Lasaosa
+Michael Condron==Harry Lloyd
+James Faulkner==Jeannie Berlin
+Christine Estabrook==Fisher Stevens
+Mason Vale Cotton==Jeffrey Pratt Gordon
+Fernando Bonilla==Sosie Bacon
+Patrick Cage==Deborah Lacey
+Sosie Bacon==Brian Cox
+Indira Varma==Francisco Denis
+Harry Lloyd==Betty Gabriel
+Hassan Johnson==Sean Bean
+Mark Moses==Fisher Stevens
+Mia Arnice Chambers==Indira Varma
+Paulina Gaitán==Gorka Lasaosa
+Wood Harris==Wendell Pierce
+Judy Reyes==Kiernan Shipka
+Jack Gleeson==Lorenzo Ferro
+Mia Soteriou==Brett Cullen
+Pilou Asbæk==Hiam Abbass
+Jesús Ochoa==Harry Lloyd
+Edie Falco==Oona Chaplin
+Kerr Logan==Meg Chambers Steedle
+Brandan T. Tate==Steve Earle
+Michael Kostroff==Mason Vale Cotton
+Rose Leslie==Mark Moses
+Art Parkinson==Gorka Lasaosa
+Sean Bean==Meg Chambers Steedle
+Gary D'Addario==Wendell Pierce
+Michael Peña==Matthew Macfadyen
+Ron Livingston==Gary D'Addario
+Manuel Masalva==Mia Soteriou
+Steven R. Schirripa==Mark Moses
+Charley Scalies==Sean Bean
+Harry Lloyd==Kerr Logan
+Wendell Pierce==Kiernan Shipka
+Susan Brown==Ron Donachie
+Michael Kenneth Williams==Indira Varma
+Richard Hildebird==Francisco Denis
+Alfonso Christian Lover==Pilou Asbæk
+Deborah Lacey==Harry Lloyd
+Alfonso Christian Lover==Brian Cox
+Zack Robidas==Brian Cox
+Paz de la Huerta==Patrick Cage
+Steven R. Schirripa==Sosie Bacon
+Michael Condron==Edie Falco
+Carice van Houten==Antonio Cordova
+Wood Harris==Jack Gleeson
+Faye Marsay==Alexander Skarsgård
+Ivo Nandi==Michael Kenneth Williams
+Wood Harris==Gary "D.Reign"
+Michael Kenneth Williams==Nikolaj Coster-Waldau
+Jeffrey Pratt Gordon==Boris McGiver
+Boris McGiver==Lena Headey
+Brandan T. Tate==Indira Varma
+Ivo Nandi==Oona Chaplin
+Frankie R. Faison==Michelle Fairley
+Brian Cox==Alexander Skarsgård
+Alexander Skarsgård==Sean Bean
+Ron Livingston==Jeffrey Pratt Gordon
+Jack Gleeson==Art Parkinson
+Charley Scalies==Harry Lloyd
+Charley Scalies==Ron Livingston
+Steve Earle==Richard Hildebird
+Matthew Macfadyen==Tobias Menzies
+Wendell Pierce==Anthony Laciura
+Mia Arnice Chambers==Steve Buscemi
+Oona Chaplin==Antonio Cordova
+Daniel Tuite==Francisco Barreiro
+Hassan Johnson==Ernest Waddell
+Ron Donachie==Mia Soteriou
+Francisco Barreiro==Michael Peña
+Aleksa Palladino==Michelle Fairley
+Drea de Matteo==Susan Rome
+Harry Lloyd==Anthony Laciura
+Hiam Abbass==Ernest Waddell
+Gorka Lasaosa==Luis Gerardo Méndez
+Vincent Curatola==Kiernan Shipka
+Stacie Davis==Benjamin Busch
+Hiam Abbass==Oona Chaplin
+Michelle Fairley==Michael Kostroff
+Charley Scalies==Alexander Skarsgård
+Michael Peña==Maria Broom
+Oona Chaplin==Hiam Abbass
+Wendell Pierce==Patricia Arquette
+Brandan T. Tate==Steve Earle
+Stacie Davis==Gary D'Addario
+Frankie R. Faison==Matthew Macfadyen
+Michael Condron==Nikolaj Coster-Waldau
+Charley Scalies==Pom Klementieff
+Ian McElhinney==Fernando Bonilla
+Brandan T. Tate==Aleksa Palladino
+Stephanie Sigman==Paulina Gaitán
+Melinda Page Hamilton==Mia Arnice Chambers
+Alexander Skarsgård==Meg Chambers Steedle
+Gary D'Addario==Steven R. Schirripa
+Fernando Bonilla==Zack Robidas
+Wendell Pierce==Gary "D.Reign"
+Paz de la Huerta==Boris McGiver
+Mason Vale Cotton==Boris McGiver
+William Forsythe==Luis Gerardo Méndez
+Jack Gleeson==Payman Maadi
+Nikolaj Coster-Waldau==Gary "D.Reign"
+Luis Gerardo Méndez==Sean Bean
+Pom Klementieff==Betty Gabriel
+Wood Harris==Zack Robidas
+Patricia Arquette==Faye Marsay
+William Forsythe==Harry Lloyd
+Mason Vale Cotton==Gorka Lasaosa
+Ron Donachie==Wood Harris
+Deborah Lacey==Mason Vale Cotton
+Carice van Houten==Benjamin Busch
+Richard Hildebird==Jonathan Pryce
+Michael Kenneth Williams==Luis Gerardo Méndez
+Stacie Davis==James Faulkner
+Stacie Davis==Maria Broom
+Ron Livingston==Edie Falco
+Harry Lloyd==Francisco Denis
+Charlie Cox==Maria Broom
+Faye Marsay==Jose Zuniga
+Mia Arnice Chambers==Mark Moses
+Vincent Curatola==Brian Cox
+Kerr Logan==Alexander Skarsgård
+Alfonso Christian Lover==Drea de Matteo
+Ivo Nandi==Gary D'Addario
+Paulina Gaitán==Fisher Stevens
+Fernando Bonilla==Francisco Denis
+Wendell Pierce==Hassan Johnson
+Michael Kenneth Williams==Pom Klementieff
+Alexander Skarsgård==Steve Buscemi
+Jeannie Berlin==Wendell Pierce
+Aleksa Palladino==Oona Chaplin
+Peter Friedman==Harry Lloyd
+Jeannie Berlin==Ron Livingston
+Boris McGiver==Stacie Davis
+Ian McElhinney==Tobias Menzies
+Sosie Bacon==Hassan Johnson
+Michael Peña==Stacie Davis
+#
+Adriana Llabrés,Aidan Gillen,Al Brown,Aleksa Palladino,Alfonso Christian Lover,Alfonso Dosal,Anne Dudek,Anthony DeSando,Arturo Castro,Ben Hawkey,Beth Hall,Bobby J. Brown,Brandon Young,Bryan Batt,Caitlin FitzGerald,Callie Thorne,Charley Scalies,Charlie Hofheimer,Christian Maelen,Christopher McDonald,Clarke Peters,Conleth Hill,Deirdre Lovejoy,Diana Rigg,Dominic Chianese,Edwina Findley,Emilia Clarke,Enrico Colantoni,Erik Weiner,Felicia Pearson,Fermin Martinez,Fintan McKeown,Flavio Medina,Gene Terinoni,Germán Jaramillo,Glenn Fleshler,Gorka Lasaosa,Hafþór Júlíus Björnsson,Hannah Waddingham,Hassan Johnson,Horacio Garcia Rojas,Indira Varma,Iwan Rheon,J. D. Williams,Jackie Earle Haley,James Cromwell,James Gandolfini,James Ransone,Jamie Michie,Jason Momoa,Javier Cámara,Jay R. Ferguson,Jeffrey Pratt Gordon,Jesse Garcia,Jim True-Frost,John Ventimiglia,Johnnie Mae,Jonathan Tucker,Josef Altin,José Julián,Juan Sebastián Calero,Juliana Canfield,Julián Beltrán,Julián Díaz,Kae Alexander,Keenon Brice,Kerry Ingram,Kevin Rahm,Kiernan Shipka,Kristen Gutoskie,Kwame Patterson,Larry Pine,Laura Perico,Leigh Gill,Lena Georgas,Lino Facioli,Luisa Rubino,Luke Barnes,Manolo Cardona,Manuel Uriza,Mark Stanley,Marshawn Lynch,Matt Long,Max Casella,Max von Sydow,Melvin Williams,Michael Hyatt,Michael Kostroff,Michael Potts,Mike Doyle,Monica Keena,Natalia Tena,Nell Tiger Free,Nikolaj Coster-Waldau,Oliver Bell,Oona Chaplin,Patch Darragh,Patrick Cage,Patrick Fischler,Paz de la Huerta,Peter Friedman,Philip McGinley,Pêpê Rapazote,Richard Madden,S. Robert Morgan,Sam Page,Sean Bean,Sidse Babett Knudsen,Simon Quarterman,Sola Bamis,Stacie Davis,Steve Buscemi,Steven R. Schirripa,Swayam Bhatia,Tao Okamoto,Teyonah Parris,Tom Mardirosian,Tom McCarthy,Toni Kalem,Vincent Piazza,Wilko Johnson,Zack Robidas,Zoe Winters,Zosia Mamet
+Patrick Fischler==Lena Georgas
+Fintan McKeown==Charley Scalies
+Melvin Williams==Oliver Bell
+Brandon Young==Edwina Findley
+James Ransone==Flavio Medina
+Hannah Waddingham==Marshawn Lynch
+Leigh Gill==Juan Sebastián Calero
+Charlie Hofheimer==Gene Terinoni
+Kae Alexander==Michael Kostroff
+Laura Perico==Peter Friedman
+Stacie Davis==Conleth Hill
+Germán Jaramillo==Conleth Hill
+Vincent Piazza==Brandon Young
+Erik Weiner==Christian Maelen
+Oliver Bell==Johnnie Mae
+Michael Potts==Michael Hyatt
+Manuel Uriza==Peter Friedman
+Germán Jaramillo==Philip McGinley
+Fermin Martinez==Julián Beltrán
+Brandon Young==Lena Georgas
+Gorka Lasaosa==James Cromwell
+Kiernan Shipka==Vincent Piazza
+Anne Dudek==Jason Momoa
+Kae Alexander==Jeffrey Pratt Gordon
+Zoe Winters==Anne Dudek
+Jay R. Ferguson==Mike Doyle
+Tao Okamoto==Johnnie Mae
+Clarke Peters==Gorka Lasaosa
+Kristen Gutoskie==Michael Potts
+Oona Chaplin==Lino Facioli
+Nikolaj Coster-Waldau==Oona Chaplin
+Fermin Martinez==Sam Page
+Indira Varma==Felicia Pearson
+Ben Hawkey==Zack Robidas
+Luisa Rubino==Javier Cámara
+Juliana Canfield==S. Robert Morgan
+Teyonah Parris==Anthony DeSando
+Zosia Mamet==Wilko Johnson
+Manuel Uriza==Vincent Piazza
+James Gandolfini==Brandon Young
+Beth Hall==Emilia Clarke
+James Gandolfini==Gorka Lasaosa
+Melvin Williams==Stacie Davis
+Kristen Gutoskie==Nikolaj Coster-Waldau
+Charlie Hofheimer==Alfonso Christian Lover
+Gene Terinoni==Zosia Mamet
+Toni Kalem==Jesse Garcia
+Erik Weiner==Deirdre Lovejoy
+Sola Bamis==Ben Hawkey
+Tom McCarthy==Jamie Michie
+Paz de la Huerta==Oona Chaplin
+Brandon Young==Jesse Garcia
+Max von Sydow==Kiernan Shipka
+Fintan McKeown==Keenon Brice
+Max von Sydow==Tom Mardirosian
+Sola Bamis==S. Robert Morgan
+Paz de la Huerta==Oona Chaplin
+Jim True-Frost==Alfonso Christian Lover
+Hassan Johnson==Kristen Gutoskie
+Tao Okamoto==Steve Buscemi
+Felicia Pearson==Fintan McKeown
+Michael Potts==Patch Darragh
+Hassan Johnson==Marshawn Lynch
+Anne Dudek==Javier Cámara
+John Ventimiglia==Enrico Colantoni
+Jesse Garcia==Manolo Cardona
+Tom Mardirosian==Stacie Davis
+Deirdre Lovejoy==Kiernan Shipka
+Steve Buscemi==Stacie Davis
+Larry Pine==Conleth Hill
+Zosia Mamet==Steve Buscemi
+Sam Page==Richard Madden
+Michael Hyatt==Zack Robidas
+Aleksa Palladino==Swayam Bhatia
+Adriana Llabrés==Indira Varma
+Javier Cámara==Vincent Piazza
+Luke Barnes==Sola Bamis
+Indira Varma==Sean Bean
+Nikolaj Coster-Waldau==Kristen Gutoskie
+Nell Tiger Free==Sam Page
+Sam Page==Toni Kalem
+Erik Weiner==Callie Thorne
+Hassan Johnson==Fermin Martinez
+Zack Robidas==Toni Kalem
+Tom Mardirosian==Kristen Gutoskie
+Diana Rigg==Julián Beltrán
+Gene Terinoni==Edwina Findley
+Zoe Winters==Aleksa Palladino
+Larry Pine==Manolo Cardona
+Aidan Gillen==Enrico Colantoni
+Matt Long==Vincent Piazza
+Conleth Hill==Jesse Garcia
+Lena Georgas==Peter Friedman
+Kerry Ingram==Adriana Llabrés
+Charlie Hofheimer==Peter Friedman
+Monica Keena==José Julián
+Deirdre Lovejoy==James Gandolfini
+Anthony DeSando==Christian Maelen
+Richard Madden==Charlie Hofheimer
+Lino Facioli==Christian Maelen
+Aidan Gillen==Christian Maelen
+James Gandolfini==Lena Georgas
+Vincent Piazza==Wilko Johnson
+Charley Scalies==Patrick Cage
+Felicia Pearson==Vincent Piazza
+Luke Barnes==Felicia Pearson
+S. Robert Morgan==Gorka Lasaosa
+Swayam Bhatia==Jeffrey Pratt Gordon
+Nikolaj Coster-Waldau==Anthony DeSando
+Max von Sydow==Pêpê Rapazote
+Caitlin FitzGerald==Hafþór Júlíus Björnsson
+Beth Hall==Toni Kalem
+Jesse Garcia==James Cromwell
+Iwan Rheon==Lino Facioli
+Patch Darragh==Caitlin FitzGerald
+Sean Bean==Callie Thorne
+Patrick Fischler==Gene Terinoni
+Julián Díaz==Conleth Hill
+Richard Madden==Caitlin FitzGerald
+Fintan McKeown==Aleksa Palladino
+Gene Terinoni==Arturo Castro
+Nikolaj Coster-Waldau==Toni Kalem
+Emilia Clarke==Stacie Davis
+Michael Kostroff==Keenon Brice
+Indira Varma==Oona Chaplin
+Manuel Uriza==James Gandolfini
+Marshawn Lynch==Patrick Fischler
+Erik Weiner==Juan Sebastián Calero
+Jonathan Tucker==Matt Long
+Charley Scalies==Aleksa Palladino
+Wilko Johnson==Sean Bean
+Simon Quarterman==John Ventimiglia
+Lena Georgas==Manolo Cardona
+Sidse Babett Knudsen==Vincent Piazza
+Pêpê Rapazote==Indira Varma
+Melvin Williams==Hafþór Júlíus Björnsson
+Toni Kalem==Alfonso Dosal
+Indira Varma==Simon Quarterman
+Richard Madden==Kiernan Shipka
+Jeffrey Pratt Gordon==Alfonso Christian Lover
+Edwina Findley==Callie Thorne
+Simon Quarterman==Charlie Hofheimer
+Bryan Batt==Fermin Martinez
+Ben Hawkey==James Cromwell
+Simon Quarterman==John Ventimiglia
+S. Robert Morgan==Luke Barnes
+James Gandolfini==Mike Doyle
+John Ventimiglia==Marshawn Lynch
+Bobby J. Brown==Hafþór Júlíus Björnsson
+Indira Varma==John Ventimiglia
+Manolo Cardona==Monica Keena
+Zosia Mamet==Germán Jaramillo
+Wilko Johnson==Fintan McKeown
+Kwame Patterson==Alfonso Dosal
+Felicia Pearson==Teyonah Parris
+Charlie Hofheimer==Gene Terinoni
+Clarke Peters==Beth Hall
+S. Robert Morgan==Oliver Bell
+Deirdre Lovejoy==Sam Page
+Luisa Rubino==Marshawn Lynch
+Sidse Babett Knudsen==Johnnie Mae
+Aidan Gillen==Tom Mardirosian
+Max Casella==Fermin Martinez
+Zoe Winters==Tom McCarthy
+Al Brown==Teyonah Parris
+Jeffrey Pratt Gordon==Larry Pine
+Callie Thorne==Kwame Patterson
+Oliver Bell==Paz de la Huerta
+Callie Thorne==Kwame Patterson
+James Ransone==John Ventimiglia
+Zoe Winters==Diana Rigg
+Diana Rigg==Germán Jaramillo
+Conleth Hill==Arturo Castro
+Jason Momoa==Juliana Canfield
+Simon Quarterman==Alfonso Christian Lover
+Leigh Gill==James Ransone
+Kerry Ingram==Vincent Piazza
+Steve Buscemi==Hannah Waddingham
+Diana Rigg==Teyonah Parris
+Beth Hall==Monica Keena
+Wilko Johnson==Kevin Rahm
+Max von Sydow==Jason Momoa
+Juan Sebastián Calero==Germán Jaramillo
+Marshawn Lynch==Michael Kostroff
+Steve Buscemi==Emilia Clarke
+Kerry Ingram==Hannah Waddingham
+Kiernan Shipka==Erik Weiner
+Oona Chaplin==Wilko Johnson
+Fintan McKeown==Kevin Rahm
+Sean Bean==Monica Keena
+Kerry Ingram==Anthony DeSando
+Natalia Tena==Lena Georgas
+Oona Chaplin==Mike Doyle
+Luke Barnes==S. Robert Morgan
+James Ransone==Johnnie Mae
+Nell Tiger Free==Peter Friedman
+John Ventimiglia==Josef Altin
+Tom Mardirosian==Paz de la Huerta
+Anthony DeSando==Erik Weiner
+Paz de la Huerta==Zoe Winters
+Nikolaj Coster-Waldau==Arturo Castro
+Jamie Michie==Flavio Medina
+Josef Altin==Lino Facioli
+Clarke Peters==Glenn Fleshler
+Aidan Gillen==Anne Dudek
+Toni Kalem==Germán Jaramillo
+Gene Terinoni==Dominic Chianese
+Michael Hyatt==Josef Altin
+Julián Díaz==Nell Tiger Free
+Laura Perico==Melvin Williams
+Gene Terinoni==Edwina Findley
+Michael Potts==Patch Darragh
+Michael Kostroff==Matt Long
+Matt Long==Tom McCarthy
+Aleksa Palladino==Charlie Hofheimer
+Toni Kalem==Zosia Mamet
+Michael Hyatt==Hannah Waddingham
+Monica Keena==Vincent Piazza
+Anne Dudek==Beth Hall
+Leigh Gill==Adriana Llabrés
+Jason Momoa==Nikolaj Coster-Waldau
+Natalia Tena==Laura Perico
+Hassan Johnson==Jim True-Frost
+Natalia Tena==Zosia Mamet
+Sidse Babett Knudsen==Julián Beltrán
+Zack Robidas==Hassan Johnson
+Pêpê Rapazote==Kwame Patterson
+Jason Momoa==Swayam Bhatia
+J. D. Williams==Deirdre Lovejoy
+Aidan Gillen==Manuel Uriza
+Adriana Llabrés==Germán Jaramillo
+Hafþór Júlíus Björnsson==Ben Hawkey
+Bobby J. Brown==Johnnie Mae
+Richard Madden==Sidse Babett Knudsen
+Ben Hawkey==Aidan Gillen
+Laura Perico==Peter Friedman
+Ben Hawkey==Julián Beltrán
+Kristen Gutoskie==Hannah Waddingham
+Hannah Waddingham==Juliana Canfield
+Kae Alexander==Michael Potts
+Clarke Peters==Teyonah Parris
+Nell Tiger Free==Christopher McDonald
+Alfonso Dosal==Beth Hall
+Lena Georgas==Leigh Gill
+Simon Quarterman==Charley Scalies
+Stacie Davis==Charlie Hofheimer
+Sola Bamis==Steven R. Schirripa
+Josef Altin==Callie Thorne
+Alfonso Christian Lover==Beth Hall
+Pêpê Rapazote==Manuel Uriza
+Edwina Findley==Leigh Gill
+Caitlin FitzGerald==Brandon Young
+Charlie Hofheimer==Oona Chaplin
+Mike Doyle==Tao Okamoto
+Brandon Young==Kiernan Shipka
+Steve Buscemi==J. D. Williams
+Glenn Fleshler==Clarke Peters
+Jim True-Frost==Erik Weiner
+Vincent Piazza==Lino Facioli
+James Gandolfini==Gorka Lasaosa
+Alfonso Christian Lover==Erik Weiner
+James Gandolfini==Anthony DeSando
+Zack Robidas==Julián Díaz
+Flavio Medina==Germán Jaramillo
+Julián Díaz==Juan Sebastián Calero
+Emilia Clarke==Zoe Winters
+Pêpê Rapazote==Manuel Uriza
+Charlie Hofheimer==José Julián
+Stacie Davis==Emilia Clarke
+Johnnie Mae==Nell Tiger Free
+Patrick Fischler==Horacio Garcia Rojas
+Oona Chaplin==Anne Dudek
+Kevin Rahm==Marshawn Lynch
+Swayam Bhatia==Richard Madden
+J. D. Williams==Steve Buscemi
+Leigh Gill==Jamie Michie
+Hassan Johnson==Julián Beltrán
+Julián Beltrán==Lino Facioli
+Gene Terinoni==Christian Maelen
+Stacie Davis==Jamie Michie
+Lena Georgas==Iwan Rheon
+Edwina Findley==Michael Kostroff
+Michael Kostroff==Teyonah Parris
+Charley Scalies==Oona Chaplin
+Hassan Johnson==Fermin Martinez
+Gene Terinoni==Emilia Clarke
+Keenon Brice==Adriana Llabrés
+Nell Tiger Free==Julián Beltrán
+Hafþór Júlíus Björnsson==Callie Thorne
+Bryan Batt==Sam Page
+Toni Kalem==Juan Sebastián Calero
+Kwame Patterson==Steve Buscemi
+Horacio Garcia Rojas==Larry Pine
+Kristen Gutoskie==Johnnie Mae
+Germán Jaramillo==Sola Bamis
+Julián Díaz==Manuel Uriza
+Conleth Hill==Edwina Findley
+Anthony DeSando==Teyonah Parris
+Laura Perico==Aidan Gillen
+Kerry Ingram==Vincent Piazza
+Jackie Earle Haley==Bobby J. Brown
+Dominic Chianese==Keenon Brice
+Zoe Winters==James Cromwell
+José Julián==Vincent Piazza
+Germán Jaramillo==Jonathan Tucker
+Jackie Earle Haley==Tom Mardirosian
+Charley Scalies==Johnnie Mae
+Sam Page==Iwan Rheon
+Jamie Michie==Horacio Garcia Rojas
+J. D. Williams==Mark Stanley
+#
+Aida Turturro,Alan Ruck,Alberto Ammann,Alejandro Edda,Aleksa Palladino,André Mattos,Anna Katarina,Anthony Hopkins,Anwan Glover,Audrey Wasilewski,Ben Barnes,Bobby Canavale,Boris McGiver,Brook Yeaton,Bus Howard,Caitlin FitzGerald,Carl Capotorto,Christina Hendricks,Clifton Collins Jr.,Cristina Umaña,Damián Alcázar,Daniel Tuite,Dennis Hill,Domenick Lombardozzi,Doug Olear,Drea de Matteo,Ed Harris,Elisabeth Moss,Enrico Colantoni,Erik LaRay Harvey,Erik Weiner,Fares Fares,Faye Marsay,Forbes KB,Freddy Rodriguez,Gbenga Akinnagbe,Gina Torres,Glenn Fleshler,Gregory L. Williams,Gustaf Skarsgård,Harriet Walter,Harry Hamlin,Hope Davis,Indira Varma,Ingrid Bolsø Berdal,Izabella Alvarez,Jack Gleeson,James Wolk,Jay Landsman,Jeffrey Pratt Gordon,Jeremy Sisto,Jeremy Strong,Joel Murray,Joseph Gatt,José Julián,Julio Cesar Cedillo,Justin Burley,Justina Machado,Kara Quick,Keenon Brice,Kieran Culkin,Kristin Proctor,Kristofer Hivju,Larry Pine,Liam Cunningham,Lorraine Bracco,Luke Hemsworth,Maggie Siff,Manolo Cardona,Mark Moses,Marlyne Afflack,Matt Letscher,Max von Sydow,Meg Chambers Steedle,Megan Parkinson,Melanie Nicholls-King,Melvin Williams,Method Man,Mia Soteriou,Michael B. Jordan,Michael Gladis,Michael Kevin Darnall,Michael Shannon,Nikolaj Coster-Waldau,Noah Taylor,Oona Chaplin,Patrick Fischler,Paul Calderon,Paul-Mikél Williams,Peyton List,Ramón Rodríguez,Ray Abruzzo,Reg E. Cathey,Richard Hildebird,Robert F. Chew,Robert F. Colesberry,Robert Hogan,Robert Iler,Robert Poletick,Robert Urbina,Ron Donachie,Rose Leslie,Russell Wong,Ryan Cartwright,S. Robert Morgan,Sam Freed,Sarah Snook,Scoot McNairy,Scott Nicholson,Sidse Babett Knudsen,Simon Armstrong,Slavko Juraga,Sonja Sohn,Stephen Graham,Steven Ogg,Steven Van Zandt,Susan Rome,Talulah Riley,Tenoch Huerta,Thomas Brodie-Sangster,Tobias Menzies,Toby Sebastian,Tyrell Baker,Yul Vazquez
+Peyton List==Gregory L. Williams
+Audrey Wasilewski==Robert Urbina
+Daniel Tuite==Sarah Snook
+Harry Hamlin==José Julián
+Melvin Williams==Simon Armstrong
+Method Man==Steven Van Zandt
+Ray Abruzzo==Hope Davis
+Elisabeth Moss==Carl Capotorto
+Oona Chaplin==Doug Olear
+Jack Gleeson==Brook Yeaton
+Izabella Alvarez==Freddy Rodriguez
+Harry Hamlin==Luke Hemsworth
+Talulah Riley==Yul Vazquez
+Brook Yeaton==Robert Hogan
+Oona Chaplin==Ingrid Bolsø Berdal
+Caitlin FitzGerald==Michael Gladis
+Cristina Umaña==Michael Gladis
+Mia Soteriou==Kieran Culkin
+Aida Turturro==Scoot McNairy
+Daniel Tuite==Richard Hildebird
+Carl Capotorto==Russell Wong
+Faye Marsay==Kieran Culkin
+Caitlin FitzGerald==Brook Yeaton
+Tobias Menzies==Faye Marsay
+Matt Letscher==Robert Hogan
+Paul-Mikél Williams==Jack Gleeson
+James Wolk==S. Robert Morgan
+Izabella Alvarez==Caitlin FitzGerald
+Kieran Culkin==Sidse Babett Knudsen
+Ron Donachie==Harry Hamlin
+Jeremy Strong==Slavko Juraga
+Ben Barnes==Sidse Babett Knudsen
+Aleksa Palladino==S. Robert Morgan
+Manolo Cardona==Drea de Matteo
+Glenn Fleshler==Steven Van Zandt
+Tenoch Huerta==Thomas Brodie-Sangster
+Steven Van Zandt==Caitlin FitzGerald
+Erik LaRay Harvey==Toby Sebastian
+Kieran Culkin==Forbes KB
+Slavko Juraga==José Julián
+Carl Capotorto==Maggie Siff
+Bus Howard==Michael Kevin Darnall
+Susan Rome==Gustaf Skarsgård
+Toby Sebastian==Hope Davis
+Ryan Cartwright==Kara Quick
+Marlyne Afflack==Anna Katarina
+Justina Machado==Erik LaRay Harvey
+Christina Hendricks==Robert Hogan
+Gregory L. Williams==Sidse Babett Knudsen
+Richard Hildebird==James Wolk
+Freddy Rodriguez==Bobby Canavale
+Clifton Collins Jr.==Ben Barnes
+Alejandro Edda==Yul Vazquez
+Rose Leslie==Matt Letscher
+Method Man==Jeffrey Pratt Gordon
+Sarah Snook==Sonja Sohn
+Steven Ogg==Brook Yeaton
+Cristina Umaña==Justina Machado
+Peyton List==Paul Calderon
+Anna Katarina==Domenick Lombardozzi
+Erik LaRay Harvey==Richard Hildebird
+Julio Cesar Cedillo==Scott Nicholson
+Steven Van Zandt==Jeffrey Pratt Gordon
+Joseph Gatt==Aida Turturro
+Luke Hemsworth==Matt Letscher
+Slavko Juraga==Elisabeth Moss
+Stephen Graham==Michael Shannon
+Megan Parkinson==Justina Machado
+Sarah Snook==Alejandro Edda
+Robert Iler==Anwan Glover
+Luke Hemsworth==Robert F. Colesberry
+Paul-Mikél Williams==Paul Calderon
+Enrico Colantoni==Sarah Snook
+Domenick Lombardozzi==Susan Rome
+Noah Taylor==Sidse Babett Knudsen
+Jay Landsman==Domenick Lombardozzi
+Robert Iler==Toby Sebastian
+Christina Hendricks==Boris McGiver
+Kieran Culkin==Christina Hendricks
+Alan Ruck==Jeremy Sisto
+Ray Abruzzo==Method Man
+Kara Quick==Alberto Ammann
+André Mattos==Jay Landsman
+Kristin Proctor==Nikolaj Coster-Waldau
+Harriet Walter==Gina Torres
+James Wolk==Michael Shannon
+Izabella Alvarez==Sarah Snook
+Ramón Rodríguez==Ryan Cartwright
+Robert Hogan==Alejandro Edda
+Carl Capotorto==Keenon Brice
+Paul-Mikél Williams==Yul Vazquez
+Robert Hogan==Cristina Umaña
+Izabella Alvarez==Aida Turturro
+Yul Vazquez==James Wolk
+Forbes KB==Joseph Gatt
+André Mattos==Robert Poletick
+Keenon Brice==Rose Leslie
+Glenn Fleshler==Tyrell Baker
+Liam Cunningham==Oona Chaplin
+Damián Alcázar==Bobby Canavale
+Anna Katarina==S. Robert Morgan
+Forbes KB==Damián Alcázar
+Manolo Cardona==Steven Ogg
+Indira Varma==Scoot McNairy
+Manolo Cardona==Justina Machado
+Carl Capotorto==Noah Taylor
+Jay Landsman==Michael Shannon
+Audrey Wasilewski==Max von Sydow
+Patrick Fischler==Alejandro Edda
+José Julián==Carl Capotorto
+Talulah Riley==Jeremy Strong
+Thomas Brodie-Sangster==Aida Turturro
+Paul Calderon==Elisabeth Moss
+Forbes KB==Ray Abruzzo
+Enrico Colantoni==Drea de Matteo
+Sarah Snook==Drea de Matteo
+Sonja Sohn==Harry Hamlin
+Peyton List==Paul Calderon
+Sonja Sohn==Dennis Hill
+Paul Calderon==Hope Davis
+José Julián==Aleksa Palladino
+Ryan Cartwright==Bobby Canavale
+Caitlin FitzGerald==Gregory L. Williams
+Christina Hendricks==Yul Vazquez
+Gustaf Skarsgård==Richard Hildebird
+Bus Howard==Ingrid Bolsø Berdal
+Lorraine Bracco==Stephen Graham
+Kristofer Hivju==Megan Parkinson
+Ray Abruzzo==Robert F. Colesberry
+Rose Leslie==Max von Sydow
+Freddy Rodriguez==Faye Marsay
+Daniel Tuite==Steven Van Zandt
+Jeremy Sisto==Gina Torres
+Anwan Glover==Justina Machado
+Domenick Lombardozzi==Peyton List
+#
+Aaron Staton,Alberto Zeni,Aleksa Palladino,Alessandro Nivola,Alyssa Diaz,André Mattos,Angela Sarafyan,Anthony Hopkins,Audrey Wasilewski,Beau Mirchoff,Bobby Soto,Brandy Burre,Brendan Cowell,Brian Geraghty,Brook Yeaton,Bruce Greenwood,Carolina Gaitán,Chad Coleman,Charles Dance,Charlie Cox,Charlotte Hope,Christian Tappan,Clark Johnson,Clarke Peters,Dagmara Domińczyk,Dan DeLuca,Daniel Portman,Daniel Tuite,Dar Salim,Deborah Lacey,Dennis Hill,Diana Rigg,Dion Graham,Dominic Chianese,Ed Norris,Edie Falco,Elyes Gabel,Enrico Colantoni,Eric Gershowitz,Esmé Bianco,Fares Fares,Frances Conroy,Frankie R. Faison,Germán Jaramillo,Glenn Fleshler,Gregory L. Williams,Gwendoline Christie,Hiam Abbass,Ian Gelder,Ian McElhinney,Idris Elba,Indira Varma,Ingrid Bolsø Berdal,James Cromwell,James Marsden,James Wolk,Jamie Hector,Jared Harris,Jeffrey Pratt Gordon,Jeremy Sisto,Jero Medina,Jim Broadbent,Joanna Christie,Joe Dempsie,John Bradley,Jon-Michael Ecker,Jonathan Pryce,Juan Pablo Shuk,Julio Cesar Cedillo,Julián Díaz,Justin Burley,Justine Lupe,Karl Davies,Kate Dickie,KeiLyn Durrel Jones,Keisha Castle-Hughes,Kevin O'Rourke,Kit Williamson,Kristian Nairn,Larry Gilliard; Jr.,Lena Waithe,Louis Herthum,Luis Gerardo Méndez,Mackenzie Crook,Maisie Williams,Margot Bingham,Matias Varela,Matt Biedel,Matt Letscher,Maurice Compte,Michael Hyatt,Michael Kostroff,Michelle Paress,Miltos Yerolemou,Molly Griggs,Morgan Spector,Nat Benchley,Natalie Dormer,Nikolaj Coster-Waldau,Orlando Valenzuela,Owen Teale,Parker Sawyers,Patricia Arquette,Paul Ben-Victor,Paul Calderon,Paul Kaye,Paulina García,Pedro Pascal,Peter Dinklage,Peter Krause,Pilou Asbæk,Ptolemy Slocum,Pêpê Rapazote,Ralph Ineson,Richard Dormer,Richard Rycroft,Robert F. Chew,Robert Iler,Robert Morse,Robert Pugh,Robert Urbina,Rodrigo Santoro,Rose Leslie,Rosemarie DeWitt,S. Robert Morgan,Sanaa Lathan,Shamyl Brown,Shea Whigham,Sorin Brouwers,Stephanie Sigman,Stephen Graham,Stephen Root,Steve Buscemi,Steve Earle,Steven Cole,Tara Fitzgerald,Tenoch Huerta,Tessa Thompson,Toby Sebastian,Tommy Flanagan,Toni Kalem,Tony Sirico,Trevor Einhorn,Tyrell Baker,Vincent Curatola,Vincent Pastore,Wendell Pierce,William Forsythe,Yuri Kolokolnikov,Zahn McClarnon
+Aaron Staton==Chad Coleman
+Pêpê Rapazote==Carolina Gaitán
+Sorin Brouwers==Steve Buscemi
+Julián Díaz==Ingrid Bolsø Berdal
+Morgan Spector==Eric Gershowitz
+Miltos Yerolemou==William Forsythe
+Peter Krause==Robert Pugh
+Pedro Pascal==Patricia Arquette
+Rosemarie DeWitt==Steve Buscemi
+Dagmara Domińczyk==Dennis Hill
+Chad Coleman==Michael Kostroff
+Karl Davies==Tessa Thompson
+Stephanie Sigman==Trevor Einhorn
+Anthony Hopkins==Sanaa Lathan
+Wendell Pierce==Julián Díaz
+Bruce Greenwood==Nikolaj Coster-Waldau
+Peter Krause==Rose Leslie
+Jero Medina==Paul Ben-Victor
+Germán Jaramillo==Julio Cesar Cedillo
+Dan DeLuca==Robert Urbina
+Daniel Tuite==Molly Griggs
+Ian McElhinney==Justine Lupe
+Aaron Staton==Mackenzie Crook
+Vincent Curatola==Matt Letscher
+Jeremy Sisto==Matt Letscher
+Wendell Pierce==Charlie Cox
+Parker Sawyers==Enrico Colantoni
+Stephen Graham==Gwendoline Christie
+Richard Dormer==Parker Sawyers
+Stephanie Sigman==Germán Jaramillo
+Ed Norris==Tyrell Baker
+Dominic Chianese==Brandy Burre
+Charlotte Hope==Christian Tappan
+Steven Cole==Jero Medina
+Molly Griggs==Joanna Christie
+Audrey Wasilewski==Karl Davies
+Karl Davies==Jeffrey Pratt Gordon
+Idris Elba==Wendell Pierce
+Ian Gelder==Jared Harris
+Kristian Nairn==Paul Kaye
+KeiLyn Durrel Jones==Jeffrey Pratt Gordon
+Esmé Bianco==Owen Teale
+Louis Herthum==Alyssa Diaz
+Edie Falco==Jero Medina
+Bruce Greenwood==James Marsden
+Orlando Valenzuela==Robert Pugh
+Michelle Paress==Parker Sawyers
+Rosemarie DeWitt==Justin Burley
+Ian Gelder==Audrey Wasilewski
+Stephanie Sigman==Nikolaj Coster-Waldau
+Maisie Williams==Richard Dormer
+Charlotte Hope==Brendan Cowell
+Luis Gerardo Méndez==Nat Benchley
+Robert F. Chew==Charles Dance
+Nikolaj Coster-Waldau==Michelle Paress
+Jeffrey Pratt Gordon==Orlando Valenzuela
+Bruce Greenwood==André Mattos
+Jamie Hector==Charlie Cox
+Pêpê Rapazote==Frankie R. Faison
+James Cromwell==Kevin O'Rourke
+Vincent Pastore==Kate Dickie
+Elyes Gabel==Tara Fitzgerald
+Rodrigo Santoro==Clark Johnson
+Stephanie Sigman==Chad Coleman
+Dominic Chianese==Kristian Nairn
+Ian Gelder==Toby Sebastian
+Parker Sawyers==Jamie Hector
+Daniel Tuite==Stephen Root
+Miltos Yerolemou==Toby Sebastian
+Jon-Michael Ecker==Pêpê Rapazote
+Paul Ben-Victor==Jim Broadbent
+Stephen Root==Justin Burley
+Dagmara Domińczyk==Peter Dinklage
+Paul Calderon==Toni Kalem
+Aleksa Palladino==Robert F. Chew
+Michael Hyatt==Toby Sebastian
+Indira Varma==Alberto Zeni
+Christian Tappan==Karl Davies
+Owen Teale==S. Robert Morgan
+Kit Williamson==Zahn McClarnon
+Daniel Portman==Charlie Cox
+Ralph Ineson==Enrico Colantoni
+Dar Salim==Clarke Peters
+Molly Griggs==Nat Benchley
+Owen Teale==Shea Whigham
+Gwendoline Christie==Angela Sarafyan
+Zahn McClarnon==Pêpê Rapazote
+Richard Rycroft==Christian Tappan
+Trevor Einhorn==Ian Gelder
+Tara Fitzgerald==Zahn McClarnon
+Daniel Portman==Clarke Peters
+Maisie Williams==Rose Leslie
+Anthony Hopkins==Juan Pablo Shuk
+Trevor Einhorn==Maisie Williams
+Brook Yeaton==Alessandro Nivola
+Aleksa Palladino==Christian Tappan
+Justine Lupe==Peter Dinklage
+S. Robert Morgan==André Mattos
+William Forsythe==Fares Fares
+Maurice Compte==Owen Teale
+Alyssa Diaz==Paul Ben-Victor
+Wendell Pierce==Tessa Thompson
+Charlotte Hope==Brandy Burre
+Michael Kostroff==Kit Williamson
+Pilou Asbæk==Keisha Castle-Hughes
+Fares Fares==Julio Cesar Cedillo
+Alberto Zeni==Pedro Pascal
+Orlando Valenzuela==Dan DeLuca
+Sanaa Lathan==Charles Dance
+Bruce Greenwood==Zahn McClarnon
+Shamyl Brown==Charles Dance
+John Bradley==Matt Biedel
+Ralph Ineson==Jim Broadbent
+Michael Kostroff==Luis Gerardo Méndez
+Pêpê Rapazote==Dominic Chianese
+Rodrigo Santoro==Esmé Bianco
+Tony Sirico==Trevor Einhorn
+Toni Kalem==Ralph Ineson
+Matt Letscher==André Mattos
+Richard Dormer==Matias Varela
+Jeremy Sisto==Rosemarie DeWitt
+Matt Letscher==Paul Ben-Victor
+Rose Leslie==Jim Broadbent
+Wendell Pierce==Stephen Root
+Kate Dickie==Miltos Yerolemou
+Richard Dormer==Vincent Curatola
+Robert F. Chew==Matt Letscher
+James Marsden==Alessandro Nivola
+Ian Gelder==Tara Fitzgerald
+Tessa Thompson==Stephanie Sigman
+Stephen Graham==Robert Iler
+Robert Urbina==Tommy Flanagan
+Kate Dickie==James Cromwell
+Brook Yeaton==Brandy Burre
+Joe Dempsie==Charlotte Hope
+Hiam Abbass==Jonathan Pryce
+Glenn Fleshler==Toni Kalem
+Tara Fitzgerald==Kevin O'Rourke
+Edie Falco==Matias Varela
+Bobby Soto==Larry Gilliard; Jr.
+Maurice Compte==Trevor Einhorn
+Zahn McClarnon==Frankie R. Faison
+Ralph Ineson==Sorin Brouwers
+Owen Teale==Jonathan Pryce
+Clarke Peters==Natalie Dormer
+James Cromwell==Peter Krause
+Clark Johnson==Vincent Curatola
+Ian McElhinney==Louis Herthum
+Tenoch Huerta==Stephanie Sigman
+Dar Salim==Margot Bingham
+Stephanie Sigman==Tommy Flanagan
+Dominic Chianese==Larry Gilliard; Jr.
+Yuri Kolokolnikov==S. Robert Morgan
+Matias Varela==Juan Pablo Shuk
+Frankie R. Faison==Diana Rigg
+Eric Gershowitz==Angela Sarafyan
+Audrey Wasilewski==Aleksa Palladino
+Dennis Hill==William Forsythe
+Beau Mirchoff==S. Robert Morgan
+Frances Conroy==Lena Waithe
+Juan Pablo Shuk==Paulina García
+Fares Fares==Maurice Compte
+Stephen Root==Keisha Castle-Hughes
+Steve Earle==Robert Urbina
+Peter Krause==Gwendoline Christie
+Paulina García==Beau Mirchoff
+Justine Lupe==Pêpê Rapazote
+Michelle Paress==Tyrell Baker
+Anthony Hopkins==Larry Gilliard; Jr.
+Shamyl Brown==Tommy Flanagan
+Charles Dance==Keisha Castle-Hughes
+Michael Kostroff==Alessandro Nivola
+Angela Sarafyan==Fares Fares
+Brian Geraghty==James Wolk
+Bobby Soto==Daniel Tuite
+Richard Dormer==Kit Williamson
+Brendan Cowell==Toby Sebastian
+Paul Ben-Victor==James Wolk
+Diana Rigg==Patricia Arquette
+Rodrigo Santoro==Pedro Pascal
+Maisie Williams==Jamie Hector
+Orlando Valenzuela==Gregory L. Williams
+Yuri Kolokolnikov==Kevin O'Rourke
+Nikolaj Coster-Waldau==Michelle Paress
+Paulina García==Ian McElhinney
+Michael Kostroff==Tony Sirico
+Jero Medina==Aleksa Palladino
+Luis Gerardo Méndez==Chad Coleman
+Keisha Castle-Hughes==Nikolaj Coster-Waldau
+Sanaa Lathan==Louis Herthum
+Rosemarie DeWitt==Parker Sawyers
+Charlie Cox==Germán Jaramillo
+Maurice Compte==Gwendoline Christie
+Charlotte Hope==Kit Williamson
+Patricia Arquette==Luis Gerardo Méndez
+Molly Griggs==Juan Pablo Shuk
+Dominic Chianese==Charles Dance
+#
+Aaron Staton,Alejandro Furth,Alfie Allen,Alfonso Dosal,Amrita Acharia,Andrés Crespo,Arthur J. Nascarella,Bella Ramsey,Bobby J. Brown,Brett Cullen,Brook Yeaton,Caitlin FitzGerald,Charles Dance,Charley Scalies,Charlie Cox,Chris Bauer,Christopher Stanley,Clarke Peters,Dan DeLuca,Dean-Charles Chapman,Deborah Lacey,Dion Graham,Elisabeth Moss,Emilia Clarke,Eric Bogosian,Eric Gershowitz,Ernest Waddell,Eros Vlahos,Essie Davis,Eugene Simon,Evan Rachel Wood,Federico Castelluccio,Felicia Pearson,Francisco Denis,Freddy Rodriguez,Gabriela de la Garza,Gene Terinoni,Gerard Jordan,Glynn Turman,Hannah Murray,Harriet Walter,Harry Hamlin,Harry Lloyd,Heather Lind,Indira Varma,Ingrid Bolsø Berdal,Iván Aragón,Iwan Rheon,Jack Gleeson,James Earl,James Wolk,Jamie Michie,Jeremy Strong,Jessica Paré,Jessy Schram,Joaquín Cosío,Jorge A. Jimenez,Julián Díaz,Justin Burley,Justina Machado,Justine Lupe,Kara Quick,Kathrine Narducci,Kelli R. Brown,Kerry Ingram,Lance Irwin,Lauren Ambrose,Leo Fitzpatrick,Lev Gorn,Louis Herthum,Luray Cooper,Maria Broom,Mark Moses,Martina García,Matt Biedel,Matt Letscher,Maurice Compte,Melanie Nicholls-King,Michael B. Jordan,Michael Stone Forrest,Michelle Paress,Natalia Tena,Natalie Dormer,Nicholas Braun,Norris Davis,Pablo Schreiber,Peter Gerety,Ray Abruzzo,Richard Hildebird,Rick Otto,Ron Livingston,Roxanne McKee,Russell Wong,Ryan Cutrona,Shannon Woodward,Shea Whigham,Simon Armstrong,Stacie Davis,Stephen Graham,Tara Fitzgerald,Tessa Ia,Thandiwe Newton,Tristan Wilds,Vincent Curatola,Vladimir Furdik,Wendell Pierce,Wrenn Schmidt,Yessica Borroto
+Amrita Acharia==Martina García
+Martina García==Richard Hildebird
+Dean-Charles Chapman==Stephen Graham
+Tessa Ia==Simon Armstrong
+Richard Hildebird==Alfie Allen
+Francisco Denis==Michael Stone Forrest
+Kerry Ingram==Kara Quick
+Stacie Davis==Federico Castelluccio
+Luray Cooper==Wrenn Schmidt
+Maria Broom==Heather Lind
+Evan Rachel Wood==Kathrine Narducci
+Michael B. Jordan==Ingrid Bolsø Berdal
+Iván Aragón==Wendell Pierce
+Ryan Cutrona==Federico Castelluccio
+Deborah Lacey==Tristan Wilds
+Aaron Staton==Michael B. Jordan
+Bella Ramsey==Tristan Wilds
+Simon Armstrong==Gene Terinoni
+Melanie Nicholls-King==Vincent Curatola
+Chris Bauer==Roxanne McKee
+Wrenn Schmidt==Ryan Cutrona
+Alfie Allen==Indira Varma
+Ray Abruzzo==Dean-Charles Chapman
+Harriet Walter==Dan DeLuca
+Rick Otto==Tessa Ia
+Ingrid Bolsø Berdal==Jack Gleeson
+Indira Varma==Dion Graham
+Lauren Ambrose==Vincent Curatola
+Kerry Ingram==Jessica Paré
+Gene Terinoni==Brett Cullen
+Alejandro Furth==Leo Fitzpatrick
+Vincent Curatola==Vladimir Furdik
+Arthur J. Nascarella==Eric Gershowitz
+Vincent Curatola==Lance Irwin
+Jessy Schram==Tristan Wilds
+Eros Vlahos==Christopher Stanley
+Natalie Dormer==Caitlin FitzGerald
+Amrita Acharia==Gabriela de la Garza
+Emilia Clarke==Dan DeLuca
+Vladimir Furdik==Charles Dance
+Martina García==Christopher Stanley
+Arthur J. Nascarella==Julián Díaz
+Thandiwe Newton==Amrita Acharia
+Elisabeth Moss==Eric Gershowitz
+Pablo Schreiber==Eric Gershowitz
+Brett Cullen==Ernest Waddell
+Tara Fitzgerald==Essie Davis
+Kelli R. Brown==Ron Livingston
+Charlie Cox==Aaron Staton
+Matt Letscher==Harriet Walter
+Mark Moses==Roxanne McKee
+Shea Whigham==Clarke Peters
+Jessy Schram==Brook Yeaton
+Brook Yeaton==Caitlin FitzGerald
+Eric Gershowitz==Eugene Simon
+Gabriela de la Garza==Rick Otto
+Eros Vlahos==Richard Hildebird
+Peter Gerety==Maurice Compte
+Chris Bauer==Ingrid Bolsø Berdal
+Charlie Cox==Dan DeLuca
+Michelle Paress==Stephen Graham
+Vincent Curatola==Martina García
+Matt Letscher==Jack Gleeson
+Kathrine Narducci==Caitlin FitzGerald
+Aaron Staton==Andrés Crespo
+Bella Ramsey==Vladimir Furdik
+Wendell Pierce==Tessa Ia
+Vladimir Furdik==Chris Bauer
+Joaquín Cosío==Dean-Charles Chapman
+Martina García==Gabriela de la Garza
+Mark Moses==Thandiwe Newton
+Natalie Dormer==Natalia Tena
+Peter Gerety==Eros Vlahos
+Pablo Schreiber==Roxanne McKee
+Michelle Paress==Gabriela de la Garza
+Jessy Schram==Iwan Rheon
+Kerry Ingram==Charlie Cox
+Andrés Crespo==Tessa Ia
+Wendell Pierce==Felicia Pearson
+Eric Bogosian==Alejandro Furth
+Indira Varma==Emilia Clarke
+Eric Bogosian==Deborah Lacey
+Iwan Rheon==Arthur J. Nascarella
+Norris Davis==Maria Broom
+Kathrine Narducci==Charlie Cox
+Evan Rachel Wood==Freddy Rodriguez
+Dean-Charles Chapman==Mark Moses
+Kara Quick==Gerard Jordan
+Alejandro Furth==Joaquín Cosío
+Brook Yeaton==Dion Graham
+Matt Biedel==Alejandro Furth
+Harry Lloyd==Julián Díaz
+Julián Díaz==Lev Gorn
+Gerard Jordan==Shannon Woodward
+Arthur J. Nascarella==Alejandro Furth
+Amrita Acharia==Bella Ramsey
+Elisabeth Moss==Matt Letscher
+Maurice Compte==Deborah Lacey
+James Wolk==Glynn Turman
+Richard Hildebird==Ryan Cutrona
+Shannon Woodward==Russell Wong
+Kathrine Narducci==Louis Herthum
+Yessica Borroto==Chris Bauer
+Ray Abruzzo==Francisco Denis
+Stacie Davis==Martina García
+Michael Stone Forrest==Roxanne McKee
+Elisabeth Moss==Louis Herthum
+Andrés Crespo==Matt Biedel
+Aaron Staton==Stephen Graham
+Charley Scalies==Brett Cullen
+Ernest Waddell==Matt Biedel
+Ray Abruzzo==Charles Dance
+Vladimir Furdik==Mark Moses
+Elisabeth Moss==Shea Whigham
+Dean-Charles Chapman==Iván Aragón
+Essie Davis==Richard Hildebird
+Peter Gerety==Ray Abruzzo
+Kerry Ingram==Deborah Lacey
+Tara Fitzgerald==Iwan Rheon
+Justine Lupe==Ray Abruzzo
+Ingrid Bolsø Berdal==Leo Fitzpatrick
+Harriet Walter==Jamie Michie
+Jessy Schram==Eros Vlahos
+Mark Moses==Christopher Stanley
+Lauren Ambrose==Shea Whigham
+Alfie Allen==Ingrid Bolsø Berdal
+Alfonso Dosal==Chris Bauer
+Dean-Charles Chapman==Lance Irwin
+Ingrid Bolsø Berdal==Richard Hildebird
+Bobby J. Brown==James Earl
+Nicholas Braun==Kerry Ingram
+Michael Stone Forrest==Federico Castelluccio
+Maurice Compte==Alfie Allen
+Kathrine Narducci==Richard Hildebird
+Matt Biedel==Kelli R. Brown
+Rick Otto==Kara Quick
+Simon Armstrong==Kelli R. Brown
+Ernest Waddell==Ron Livingston
+Gerard Jordan==Arthur J. Nascarella
+Eric Bogosian==Vincent Curatola
+Norris Davis==Joaquín Cosío
+Gabriela de la Garza==Gerard Jordan
+#
+Abigail Spencer,Alberto Guerra,Alfonso Christian Lover,Alyssa Diaz,Andre Royo,Andrea Londo,Arian Moayed,Benito Antonio Martínez Ocasio,Bill Zorzi,Brandon Fobbs,Brian Cox,Bus Howard,Charley Scalies,Christina Hendricks,Ciarán Hinds,Dana Ivey,David Rasche,Deborah Lacey,Dominic Chianese,Donald Neal,Edward Green,Eric Bogosian,Erik Weiner,Eugene Simon,Fares Fares,Frances Conroy,Freddy Rodriguez,Gbenga Akinnagbe,Gene Terinoni,Gina Torres,Harriet Walter,Heather Lind,Isaac Hempstead Wright,Ivo Nandi,J. D. Williams,Jack Gleeson,Jacob Anderson,James Cromwell,Jared Harris,Jay Landsman,Jay R. Ferguson,Jerome Flynn,Jim Broadbent,Jimmi Simpson,Joanna Christie,Joilet F. Harris,Jonathan Tucker,Juan Pablo Raba,Judy Reyes,Julian Glover,Keisha Castle-Hughes,Kerry Bishé,Kiernan Shipka,Leonardo Nam,Liam Cunningham,Linda Cardellini,Linda Emond,Lorenzo Ferro,Lorraine Bracco,Luisa Rubino,Luke Hemsworth,Luray Cooper,Maisie Williams,Manolo Cardona,Mark Moses,Martina García,Mason Vale Cotton,Matthew Macfadyen,Michael B. Jordan,Michael Hyatt,Michael Imperioli,Michael Kostroff,Michael Stuhlbarg,Michiel Huisman,Mike Doyle,Myra Turley,Natalie Gold,Norris Davis,Parker Sawyers,Patch Darragh,Patrick Fischler,Paul Ben-Victor,Paulina Gaitán,Peter Gerety,Peter Mullan,Ralph Ineson,Rashad Orange,Reg E. Cathey,Richard Burton,Richard E. Grant,Richard Pelzman,Robert Costanzo,Robert F. Colesberry,Ron Donachie,Rory McCann,Rosabell Laurenti Sellers,Sebastián Buitrón,Seth Gilliam,Sola Bamis,Staz Nair,Stephanie Drake,Steve Earle,Steven Cole,Steven R. Schirripa,Tony Sirico,Troj Marquis Strickland,Vincent Piazza,Zoe Winters
+Gbenga Akinnagbe==Julian Glover
+Dominic Chianese==Myra Turley
+Leonardo Nam==Jacob Anderson
+Richard E. Grant==Frances Conroy
+Zoe Winters==Keisha Castle-Hughes
+Joilet F. Harris==Deborah Lacey
+Lorenzo Ferro==Jared Harris
+Seth Gilliam==Jared Harris
+Linda Emond==Sebastián Buitrón
+Liam Cunningham==Joanna Christie
+Bill Zorzi==Lorenzo Ferro
+Ralph Ineson==Seth Gilliam
+Deborah Lacey==Alyssa Diaz
+Richard Burton==Freddy Rodriguez
+Michael Hyatt==Patch Darragh
+Eugene Simon==Sebastián Buitrón
+Benito Antonio Martínez Ocasio==Steve Earle
+Juan Pablo Raba==David Rasche
+Jared Harris==Keisha Castle-Hughes
+Joanna Christie==Lorraine Bracco
+Jim Broadbent==Michael Imperioli
+Arian Moayed==Isaac Hempstead Wright
+Sebastián Buitrón==Andrea Londo
+Heather Lind==Joilet F. Harris
+Jared Harris==Kiernan Shipka
+Richard Pelzman==Leonardo Nam
+Natalie Gold==Rory McCann
+Tony Sirico==Myra Turley
+Ralph Ineson==Jonathan Tucker
+Jacob Anderson==Bus Howard
+Michael Hyatt==Joanna Christie
+Paul Ben-Victor==Brandon Fobbs
+Bus Howard==Abigail Spencer
+Paulina Gaitán==Reg E. Cathey
+Zoe Winters==Kiernan Shipka
+Troj Marquis Strickland==Michael Imperioli
+Michael Hyatt==Ivo Nandi
+Paulina Gaitán==James Cromwell
+Michael Kostroff==Vincent Piazza
+Abigail Spencer==Martina García
+Zoe Winters==Michiel Huisman
+Tony Sirico==Kerry Bishé
+Bus Howard==Paul Ben-Victor
+Keisha Castle-Hughes==Andrea Londo
+Michael Imperioli==Jim Broadbent
+Liam Cunningham==Manolo Cardona
+Stephanie Drake==Matthew Macfadyen
+Jacob Anderson==Gene Terinoni
+Robert Costanzo==Patch Darragh
+Juan Pablo Raba==Keisha Castle-Hughes
+Ralph Ineson==Christina Hendricks
+Gbenga Akinnagbe==Jay Landsman
+Bill Zorzi==Michael B. Jordan
+Luray Cooper==Reg E. Cathey
+Steven R. Schirripa==Dominic Chianese
+Peter Gerety==Richard Pelzman
+Zoe Winters==Tony Sirico
+Michael Stuhlbarg==Paul Ben-Victor
+Jerome Flynn==Richard E. Grant
+Brian Cox==Patch Darragh
+Bill Zorzi==Gina Torres
+Juan Pablo Raba==Lorenzo Ferro
+Andrea Londo==David Rasche
+David Rasche==Ralph Ineson
+Michael Kostroff==Christina Hendricks
+Norris Davis==Jim Broadbent
+Richard Burton==Andrea Londo
+Isaac Hempstead Wright==Michael B. Jordan
+Alyssa Diaz==Kerry Bishé
+Peter Gerety==Luisa Rubino
+Gbenga Akinnagbe==Jay Landsman
+Heather Lind==Mason Vale Cotton
+Isaac Hempstead Wright==Julian Glover
+Paul Ben-Victor==Keisha Castle-Hughes
+Donald Neal==Richard Pelzman
+Jay Landsman==Michael Stuhlbarg
+Linda Emond==Julian Glover
+Luray Cooper==Manolo Cardona
+Jerome Flynn==Rosabell Laurenti Sellers
+Robert Costanzo==Manolo Cardona
+Maisie Williams==Michiel Huisman
+Patrick Fischler==Keisha Castle-Hughes
+Bus Howard==Harriet Walter
+Alyssa Diaz==Linda Emond
+Liam Cunningham==Julian Glover
+Ivo Nandi==Frances Conroy
+Lorraine Bracco==Michael B. Jordan
+Mike Doyle==Robert F. Colesberry
+Jay Landsman==Gene Terinoni
+Michael Kostroff==Julian Glover
+Patch Darragh==Vincent Piazza
+Judy Reyes==Ralph Ineson
+Bill Zorzi==Norris Davis
+Charley Scalies==Erik Weiner
+Edward Green==Linda Emond
+Edward Green==David Rasche
+Joanna Christie==Gbenga Akinnagbe
+Richard Burton==Alberto Guerra
+Freddy Rodriguez==Steven Cole
+Leonardo Nam==Mason Vale Cotton
+Ciarán Hinds==Natalie Gold
+Jay Landsman==Martina García
+Norris Davis==Erik Weiner
+Ciarán Hinds==Gina Torres
+Jay Landsman==Patrick Fischler
+Gina Torres==Alyssa Diaz
+Joilet F. Harris==Michael Kostroff
+Luray Cooper==Dana Ivey
+Edward Green==Bus Howard
+Troj Marquis Strickland==Mason Vale Cotton
+Patrick Fischler==Alfonso Christian Lover
+Michael B. Jordan==Seth Gilliam
+Stephanie Drake==Arian Moayed
+Parker Sawyers==Tony Sirico
+Mark Moses==Linda Emond
+Jay R. Ferguson==Matthew Macfadyen
+Jimmi Simpson==Ralph Ineson
+Mike Doyle==Michiel Huisman
+Leonardo Nam==Luisa Rubino
+Jared Harris==Jimmi Simpson
+Paul Ben-Victor==Dominic Chianese
+Mike Doyle==Michael Stuhlbarg
+#
+Adriana La Cerva,Agent Owen,Agent Sebso,Alessandro Daniels,Alton Lannister,Amado Carrillo Fuentes,Amanda Reese,Anguy,Arnold Rothstein,Avon Barksdale,Big Guy,Bobby Draper,Brenda Chenowith,Connie Murphy,Daisy,Dawn Chambers,Duquan "Dukie" Weems,Eduardo Arellano Félix,Fat Face Rick,Freddy Rumsen,Gendry,General José Serrano,Giovanni "Johnny Boy" Soprano,Hector Escaton,Helen Bishop,Hot Pie,Isabelle Jeunet,James Neary,Joe Masseria,Joffrey Baratheon,Johnny Torrio,Jojen Reed,Jorge Ochoa,Jorge Salcedo Cabrera,Jory Cassel,Juan José "El Azul" Esparragoza Moreno,Juan Nepomuceno Guerra,Julia Sagorsky,Karolina Novotney,Katherine Olson,Leaf,Limón,Lloyd "Truck" Garrick,Maeve Millay,Margaery Tyrell,Marie Calvet,Maurice Levy,Michael McNulty,Michelle-Anne Vanderhoven,Nelson Van Alden / George Mueller,Oberyn Martell,Odell Watkins,Olenna Tyrell,Orlando Henao Montoya,Phil,Qhono,Rakharo,Ramón Arellano Félix,Robert "Bobby Bacala" Baccalieri,Robett Glover,Rose Van Alden,Sapper,Sean James McNulty,Shae,Siobhan "Shiv" Roy,Sofia Conesa,Sylvia Rosen,Valeria Vélez,Wun Weg Wun Dar Wun,Ygritte
+Joe Masseria==Rose Van Alden
+Hot Pie==Qhono
+Freddy Rumsen==Avon Barksdale
+Joe Masseria==Agent Sebso
+Juan Nepomuceno Guerra==Robett Glover
+Juan Nepomuceno Guerra==Ramón Arellano Félix
+Amanda Reese==Gendry
+Phil==Agent Sebso
+Agent Sebso==Isabelle Jeunet
+Margaery Tyrell==Maeve Millay
+Qhono==Giovanni "Johnny Boy" Soprano
+Amanda Reese==Connie Murphy
+Rakharo==Anguy
+Amanda Reese==Limón
+Shae==Duquan "Dukie" Weems
+Karolina Novotney==Margaery Tyrell
+Isabelle Jeunet==Alton Lannister
+Big Guy==Wun Weg Wun Dar Wun
+Siobhan "Shiv" Roy==Rose Van Alden
+Sean James McNulty==Jorge Ochoa
+Robert "Bobby Bacala" Baccalieri==Katherine Olson
+Jojen Reed==Agent Sebso
+Alton Lannister==Hot Pie
+Freddy Rumsen==Maurice Levy
+Bobby Draper==Orlando Henao Montoya
+Fat Face Rick==Joe Masseria
+Maeve Millay==Joe Masseria
+Limón==James Neary
+Olenna Tyrell==Brenda Chenowith
+Alessandro Daniels==Avon Barksdale
+Gendry==Margaery Tyrell
+Fat Face Rick==Anguy
+Ygritte==Phil
+Odell Watkins==Juan José "El Azul" Esparragoza Moreno
+General José Serrano==Marie Calvet
+Ramón Arellano Félix==Lloyd "Truck" Garrick
+Fat Face Rick==Maurice Levy
+Robert "Bobby Bacala" Baccalieri==Qhono
+Ramón Arellano Félix==Rose Van Alden
+Giovanni "Johnny Boy" Soprano==Eduardo Arellano Félix
+Maurice Levy==Johnny Torrio
+Maurice Levy==Helen Bishop
+Maurice Levy==Anguy
+Fat Face Rick==Rose Van Alden
+Fat Face Rick==Big Guy
+James Neary==Valeria Vélez
+Bobby Draper==Jorge Salcedo Cabrera
+Odell Watkins==General José Serrano
+Valeria Vélez==Adriana La Cerva
+Sylvia Rosen==Wun Weg Wun Dar Wun
+Maeve Millay==Joe Masseria
+Qhono==Jorge Ochoa
+Phil==Ygritte
+Maurice Levy==Shae
+Maeve Millay==Sofia Conesa
+Robert "Bobby Bacala" Baccalieri==Agent Sebso
+Amanda Reese==Eduardo Arellano Félix
+Connie Murphy==Jorge Ochoa
+Johnny Torrio==Phil
+Amanda Reese==James Neary
+Olenna Tyrell==Sofia Conesa
+Freddy Rumsen==Shae
+Jojen Reed==Ramón Arellano Félix
+Qhono==Helen Bishop
+Amado Carrillo Fuentes==Odell Watkins
+Orlando Henao Montoya==Robert "Bobby Bacala" Baccalieri
+Karolina Novotney==Robett Glover
+Avon Barksdale==Giovanni "Johnny Boy" Soprano
+Robett Glover==Juan José "El Azul" Esparragoza Moreno
+Alessandro Daniels==Phil
+Rose Van Alden==Sean James McNulty
+Ramón Arellano Félix==Olenna Tyrell
+Phil==Maurice Levy
+Joffrey Baratheon==James Neary
+Hot Pie==Marie Calvet
+Odell Watkins==Juan José "El Azul" Esparragoza Moreno
+Shae==Dawn Chambers
+Sylvia Rosen==Gendry
+Margaery Tyrell==Michelle-Anne Vanderhoven
+Oberyn Martell==Amanda Reese
+Sapper==Arnold Rothstein
+Giovanni "Johnny Boy" Soprano==Helen Bishop
+#
+Agent Owen,Al Capone,Amat Palacios,Angela Darmody,Archmaester Ebrose,Arnold Rothstein,Beatrice "Beadie" Russell,Bill Stechner,Billie Kent,Brianna Barksdale,Brother Mouzone,Butch DeConcini,Butch Sears,Chucho Peña,Craig,Craster,César Gaviria,Daisy,David Fisher,Davos Seaworth,Dickon Tarly,Dr. Randall Frazier,Duck Phillips,Edward "Eddie" Kessler,Elena McNulty,Enrique Clavel,Ernesto "Don Neto" Fonseca Carrillo,Ewan Roy,Fat Face Rick,Fernando Galeano,Francis,Gary DiPasquale,George "Double G" Glekas,Gil Eavis,Gustavo de Greiff,Harrag,Helen Bishop,Helmer "Pacho" Herrera,Isabelle Jeunet,James "Jim" Tolliver,Jane Sterling,Janice Soprano,Jen Carcetti,Jim Ferguson,Johnny Weeks,Judy Moncada,Kiko Moncada,Leaf,Little Boy,Little Kevin,Logan Roy,Lorraine,Maeve Millay,Marcia Donnelly,Marcia Roy,Marta Linares,Michael Steintorf,Miguel Rodriguez Orejuela,Mike Fletcher,Myrcella Baratheon,Nate Sofrelli,Paola Salcedo,Paul Kinsey,Paulie Gualtieri,Petyr "Littlefinger" Baelish,Phil Leotardo,Pypar,Qhorin Halfhand,Rakharo,Randyll Tarly,Robb Stark,Roland,Roose Bolton,Roy Phillips,Sally Draper,Sally Wheet,Sandor "The Hound" Clegane,Sean "Shamrock" McGinty,Stanislaus "Stan" Valchek,Syrio Forel,The Deacon,Thomas Buehl,Tommen Baratheon,Tywin Lannister,Valeria Vélez,Vernon "Ott" Motley,Vito Spatafore,Walda Bolton,Walt Breslin,Willa Ferreyra,Yoren
+Enrique Clavel==Leaf
+Dickon Tarly==Jim Ferguson
+Roy Phillips==Dickon Tarly
+Bill Stechner==George "Double G" Glekas
+Marcia Roy==Elena McNulty
+Judy Moncada==Roy Phillips
+Al Capone==Isabelle Jeunet
+Brianna Barksdale==Vito Spatafore
+Willa Ferreyra==Roy Phillips
+Beatrice "Beadie" Russell==Little Boy
+Brother Mouzone==Sally Draper
+Roose Bolton==Janice Soprano
+Bill Stechner==Michael Steintorf
+Gary DiPasquale==Butch Sears
+Edward "Eddie" Kessler==Judy Moncada
+Sandor "The Hound" Clegane==Roose Bolton
+Amat Palacios==Helmer "Pacho" Herrera
+Willa Ferreyra==Walt Breslin
+Yoren==Craster
+Lorraine==Butch Sears
+Marcia Donnelly==Johnny Weeks
+Vito Spatafore==Michael Steintorf
+Daisy==George "Double G" Glekas
+Vito Spatafore==David Fisher
+Beatrice "Beadie" Russell==Craig
+Dickon Tarly==Nate Sofrelli
+Judy Moncada==Ewan Roy
+Roy Phillips==Roland
+Pypar==Isabelle Jeunet
+Roland==Beatrice "Beadie" Russell
+Tommen Baratheon==Judy Moncada
+Willa Ferreyra==Dickon Tarly
+Sean "Shamrock" McGinty==Willa Ferreyra
+Roland==Al Capone
+Maeve Millay==Helen Bishop
+Robb Stark==Yoren
+Dickon Tarly==Little Boy
+Elena McNulty==The Deacon
+Valeria Vélez==Chucho Peña
+Marcia Roy==Stanislaus "Stan" Valchek
+James "Jim" Tolliver==Paulie Gualtieri
+Amat Palacios==Roose Bolton
+Chucho Peña==Janice Soprano
+Sean "Shamrock" McGinty==Pypar
+Ewan Roy==Gustavo de Greiff
+Paulie Gualtieri==Valeria Vélez
+Fat Face Rick==Paulie Gualtieri
+Al Capone==Maeve Millay
+Chucho Peña==Gustavo de Greiff
+Ewan Roy==Yoren
+Duck Phillips==George "Double G" Glekas
+Johnny Weeks==Vito Spatafore
+Harrag==Isabelle Jeunet
+Dickon Tarly==Helmer "Pacho" Herrera
+Logan Roy==Francis
+Robb Stark==Tommen Baratheon
+Vito Spatafore==James "Jim" Tolliver
+Mike Fletcher==Butch DeConcini
+Edward "Eddie" Kessler==George "Double G" Glekas
+Arnold Rothstein==Jim Ferguson
+Jim Ferguson==Willa Ferreyra
+Leaf==Walda Bolton
+Vernon "Ott" Motley==Ernesto "Don Neto" Fonseca Carrillo
+Michael Steintorf==Butch Sears
+Nate Sofrelli==Little Kevin
+Isabelle Jeunet==Janice Soprano
+Dr. Randall Frazier==Isabelle Jeunet
+Roose Bolton==Thomas Buehl
+Sally Wheet==Arnold Rothstein
+Paulie Gualtieri==Janice Soprano
+Judy Moncada==Janice Soprano
+Helmer "Pacho" Herrera==Petyr "Littlefinger" Baelish
+Roy Phillips==Isabelle Jeunet
+Daisy==Sally Draper
+Craster==Janice Soprano
+César Gaviria==Thomas Buehl
+Little Kevin==Rakharo
+Valeria Vélez==Roland
+Robb Stark==Janice Soprano
+Leaf==Pypar
+Marta Linares==Enrique Clavel
+Fat Face Rick==Craster
+Isabelle Jeunet==Logan Roy
+Butch Sears==Butch DeConcini
+Fat Face Rick==Leaf
+Dr. Randall Frazier==Tommen Baratheon
+Enrique Clavel==Bill Stechner
+Dickon Tarly==Ernesto "Don Neto" Fonseca Carrillo
+Butch DeConcini==Marta Linares
+Agent Owen==Paulie Gualtieri
+Marcia Roy==Robb Stark
+Thomas Buehl==Lorraine
+Archmaester Ebrose==Butch DeConcini
+Qhorin Halfhand==Dr. Randall Frazier
+Jim Ferguson==Elena McNulty
+Gary DiPasquale==Valeria Vélez
+Michael Steintorf==Lorraine
+Amat Palacios==Robb Stark
+Craig==Dr. Randall Frazier
+Marcia Roy==César Gaviria
+Janice Soprano==Archmaester Ebrose
+Davos Seaworth==Walda Bolton
+Jane Sterling==Sally Wheet
+Francis==Tommen Baratheon
+Tywin Lannister==David Fisher
+Tommen Baratheon==Duck Phillips
+Fernando Galeano==Thomas Buehl
+Francis==Sally Wheet
+Tywin Lannister==Daisy
+Sean "Shamrock" McGinty==Pypar
+Roy Phillips==Edward "Eddie" Kessler
+Francis==Roose Bolton
+David Fisher==Marta Linares
+Gustavo de Greiff==Yoren
+Roy Phillips==Arnold Rothstein
+Duck Phillips==Gustavo de Greiff
+César Gaviria==Logan Roy
+Davos Seaworth==Isabelle Jeunet
+Brianna Barksdale==Paola Salcedo
+Sandor "The Hound" Clegane==Butch DeConcini
+The Deacon==Al Capone
+Butch DeConcini==Roland
+Harrag==Walt Breslin
+Judy Moncada==César Gaviria
+Sandor "The Hound" Clegane==Fat Face Rick
+Roland==Jane Sterling
+Kiko Moncada==Edward "Eddie" Kessler
+Helmer "Pacho" Herrera==Amat Palacios
+Paola Salcedo==Vito Spatafore
+Judy Moncada==Willa Ferreyra
+Syrio Forel==Edward "Eddie" Kessler
+Brother Mouzone==Little Kevin
+Gary DiPasquale==Bill Stechner
+Stanislaus "Stan" Valchek==Paul Kinsey
+Helmer "Pacho" Herrera==Petyr "Littlefinger" Baelish
+César Gaviria==Chucho Peña
+Johnny Weeks==Helen Bishop
+George "Double G" Glekas==Jane Sterling
+Craig==Phil Leotardo
+Pypar==Rakharo
+Beatrice "Beadie" Russell==Harrag
+Roose Bolton==Fat Face Rick
+Craster==Lorraine
+Harrag==Butch DeConcini
+James "Jim" Tolliver==Dickon Tarly
+Sally Draper==Daisy
+Billie Kent==Fat Face Rick
+Kiko Moncada==Francis
+Amat Palacios==Pypar
+Elena McNulty==Marta Linares
+Roose Bolton==Gustavo de Greiff
+Vito Spatafore==Tommen Baratheon
+Vito Spatafore==Dickon Tarly
+Logan Roy==Duck Phillips
+Michael Steintorf==Marcia Donnelly
+Thomas Buehl==Fernando Galeano
+Marcia Roy==Sandor "The Hound" Clegane
+Judy Moncada==Petyr "Littlefinger" Baelish
+Marcia Roy==Roland
+Brother Mouzone==Francis
+Helmer "Pacho" Herrera==Stanislaus "Stan" Valchek
+Qhorin Halfhand==Petyr "Littlefinger" Baelish
+Michael Steintorf==Edward "Eddie" Kessler
+Stanislaus "Stan" Valchek==Paulie Gualtieri
+#
+Akecheta,Al Capone,Alys Karstark,Amanda Reese,Amory Lorch,Andrea Nuñez,Angela Darmody,Angelo Buscetta,Anna Draper,Anthony "Tony B" Blundetto,Arturo Beltran Leyva,Ash,Ashley Stubbs,Barristan Selmy,Benjamín Arellano Félix,Benjen Stark,Beric Dondarrion,Bernard Lowe / Arnold Weber,Betty Draper,Billie Kent,Bobby Reed,Bran Stark,Brendan Filone,Carmine "Little Carmine" Lupertazzi,Caroline Massey,Charles Marimow,Claude Diggins,Colin Stiles,Commodore Louis Kaestner,Connie Murphy,Connor Roy,Craster,Dani,Daniel Van Ness,Davos Seaworth,Diana Turbay,Donut,Doran Martell,Ellis Carver,Elsie Hughes,Ervin Burrell,Federico Diaz,Felix Lutz,Fernando Duque,Fruit,Furio Giunta,Gary DiPasquale,General José Serrano,Gilberto Rodriguez,Gillian Darmody,Gustavo de Greiff,Harry Daugherty,Hector Escaton,Helmer "Pacho" Herrera,Hermilda Gaviria,Héctor Luis Palma Salazar,Isabella Bautista,James Delos,James Neary,James Whiting,Janice Soprano,Jimmy Barrett,John Clay Walker,Johnny Torrio,Johnny Weeks,Jon Snow,Juan García Abrego,Kima Greggs,Lauren,Leander Sydnor,Little Boy,Lommy Greenhands,Lori,Lucy Danziger,Mace Tyrell,Maester Luwin,Marcia Roy,Marie Calvet,Marla Daniels,Martel,Meryn Trant,Mika Camarena,Mirri Maz Duur,Mrs. McGarry,Oberyn Martell,Olenna Tyrell,Ossie Mejía,Paola Salcedo,Peggy Olson,Peter Abernathy,Qotho,Ralph Cifaretto,Ramsay Bolton,Randyll Tarly,Rava Roy,Rebecca Corbett,Rickon Stark,Robert "Bobby Bacala" Baccalieri,Roberto "Poison" Ramos,Roger Knapp,Roose Bolton,Russell "Stringer" Bell,Ruth Arellano Félix,Ruth Fisher,Salvatore Romano,Sean "Shamrock" McGinty,Sean James McNulty,Selyse Florent,Sergei Malatov,Shae,Sherrod,Shirley,Silvio Dante,Slim Charles,Slim Miller,Stan Rizzo,Steelshanks Walton,Stewy Hosseini,Sylvia Rosen,The Waif,Thoros of Myr,William Rawls,Wyatt,Ziggy Sobotka
+Colin Stiles==John Clay Walker
+Beric Dondarrion==Dani
+Johnny Weeks==Sherrod
+Qotho==Isabella Bautista
+Betty Draper==Roger Knapp
+Lucy Danziger==Carmine "Little Carmine" Lupertazzi
+Alys Karstark==Rebecca Corbett
+Martel==Gilberto Rodriguez
+Gillian Darmody==Stewy Hosseini
+The Waif==Davos Seaworth
+Davos Seaworth==Sherrod
+Robert "Bobby Bacala" Baccalieri==Al Capone
+Johnny Torrio==Sean James McNulty
+Mrs. McGarry==Anna Draper
+Akecheta==Oberyn Martell
+Oberyn Martell==Héctor Luis Palma Salazar
+Sergei Malatov==Leander Sydnor
+The Waif==Angela Darmody
+Peter Abernathy==Anthony "Tony B" Blundetto
+John Clay Walker==Anthony "Tony B" Blundetto
+Rebecca Corbett==Donut
+Roose Bolton==Ash
+Peggy Olson==James Delos
+Ossie Mejía==Mrs. McGarry
+Randyll Tarly==General José Serrano
+Steelshanks Walton==Ralph Cifaretto
+Peggy Olson==Daniel Van Ness
+Jon Snow==Billie Kent
+Robert "Bobby Bacala" Baccalieri==Gustavo de Greiff
+Fernando Duque==Robert "Bobby Bacala" Baccalieri
+Amory Lorch==Johnny Torrio
+Sherrod==Lucy Danziger
+Diana Turbay==Shae
+Roberto "Poison" Ramos==Isabella Bautista
+Davos Seaworth==Mrs. McGarry
+Anthony "Tony B" Blundetto==Maester Luwin
+Ruth Fisher==Thoros of Myr
+Lori==Akecheta
+Commodore Louis Kaestner==The Waif
+Rava Roy==Arturo Beltran Leyva
+Janice Soprano==Commodore Louis Kaestner
+Salvatore Romano==Marla Daniels
+Rickon Stark==Steelshanks Walton
+Wyatt==Sherrod
+Marie Calvet==Beric Dondarrion
+Gilberto Rodriguez==Donut
+Diana Turbay==Sherrod
+Roger Knapp==Mrs. McGarry
+Furio Giunta==Hector Escaton
+Benjen Stark==Ossie Mejía
+Meryn Trant==Shae
+Connor Roy==Leander Sydnor
+Sean "Shamrock" McGinty==Ellis Carver
+Ramsay Bolton==Lauren
+Bernard Lowe / Arnold Weber==Ash
+Lommy Greenhands==Fruit
+Rickon Stark==Selyse Florent
+Qotho==Bran Stark
+Mace Tyrell==Rickon Stark
+Jon Snow==Rebecca Corbett
+The Waif==Steelshanks Walton
+Gilberto Rodriguez==Selyse Florent
+Al Capone==Hermilda Gaviria
+James Neary==Meryn Trant
+Sean "Shamrock" McGinty==Paola Salcedo
+Jimmy Barrett==Dani
+Peggy Olson==Claude Diggins
+Gilberto Rodriguez==Felix Lutz
+Peter Abernathy==Beric Dondarrion
+Alys Karstark==Anthony "Tony B" Blundetto
+Janice Soprano==Marcia Roy
+Robert "Bobby Bacala" Baccalieri==Silvio Dante
+Peter Abernathy==Rickon Stark
+James Neary==Stewy Hosseini
+Brendan Filone==Fernando Duque
+Andrea Nuñez==Ruth Fisher
+Johnny Weeks==Robert "Bobby Bacala" Baccalieri
+Ervin Burrell==Ellis Carver
+Sylvia Rosen==Robert "Bobby Bacala" Baccalieri
+Steelshanks Walton==Angelo Buscetta
+Héctor Luis Palma Salazar==Ralph Cifaretto
+Felix Lutz==Craster
+Olenna Tyrell==Donut
+James Neary==Brendan Filone
+Lucy Danziger==Thoros of Myr
+The Waif==Mika Camarena
+Carmine "Little Carmine" Lupertazzi==Stewy Hosseini
+Arturo Beltran Leyva==Russell "Stringer" Bell
+Olenna Tyrell==Salvatore Romano
+Ruth Fisher==Jon Snow
+Felix Lutz==Shirley
+Craster==Amanda Reese
+Betty Draper==Marla Daniels
+Héctor Luis Palma Salazar==Ash
+Maester Luwin==James Delos
+Robert "Bobby Bacala" Baccalieri==Shirley
+Janice Soprano==Craster
+Martel==Connie Murphy
+Bran Stark==Beric Dondarrion
+Carmine "Little Carmine" Lupertazzi==Bobby Reed
+Slim Charles==Jimmy Barrett
+Beric Dondarrion==Colin Stiles
+Roger Knapp==Héctor Luis Palma Salazar
+Jimmy Barrett==Little Boy
+Sherrod==Diana Turbay
+Janice Soprano==Ossie Mejía
+Randyll Tarly==Ellis Carver
+Paola Salcedo==Dani
+Bobby Reed==Connie Murphy
+Rebecca Corbett==Marcia Roy
+Russell "Stringer" Bell==Doran Martell
+Bran Stark==Isabella Bautista
+Marie Calvet==Juan García Abrego
+Elsie Hughes==Selyse Florent
+Lori==Silvio Dante
+Juan García Abrego==Sergei Malatov
+John Clay Walker==Peggy Olson
+Billie Kent==Colin Stiles
+Selyse Florent==Ruth Arellano Félix
+Marla Daniels==Mrs. McGarry
+Sylvia Rosen==Fernando Duque
+Helmer "Pacho" Herrera==Peter Abernathy
+Charles Marimow==James Delos
+Fernando Duque==Amanda Reese
+Angelo Buscetta==James Neary
+Bobby Reed==Ziggy Sobotka
+Johnny Torrio==Ziggy Sobotka
+Roberto "Poison" Ramos==Silvio Dante
+Charles Marimow==Ziggy Sobotka
+General José Serrano==Craster
+Hector Escaton==Mrs. McGarry
+Selyse Florent==Marie Calvet
+James Delos==Peggy Olson
+Isabella Bautista==Rickon Stark
+Ervin Burrell==Lommy Greenhands
+Angelo Buscetta==Qotho
+Silvio Dante==Charles Marimow
+Mika Camarena==Sherrod
+Qotho==Sergei Malatov
+Paola Salcedo==Claude Diggins
+Rickon Stark==Lommy Greenhands
+Marla Daniels==Isabella Bautista
+Paola Salcedo==Donut
+Jon Snow==Andrea Nuñez
+Bobby Reed==Roger Knapp
+Ralph Cifaretto==Benjen Stark
+Qotho==Ossie Mejía
+Lauren==Rebecca Corbett
+Beric Dondarrion==Peter Abernathy
+Alys Karstark==Billie Kent
+Johnny Torrio==Connie Murphy
+James Neary==Daniel Van Ness
+Wyatt==Commodore Louis Kaestner
+Benjen Stark==Wyatt
+Martel==Leander Sydnor
+Connor Roy==Lori
+Robert "Bobby Bacala" Baccalieri==Ossie Mejía
+Héctor Luis Palma Salazar==Peter Abernathy
+Amory Lorch==Isabella Bautista
+Charles Marimow==Ruth Fisher
+Russell "Stringer" Bell==Sean "Shamrock" McGinty
+#
+"White" Mike McArdle,Abe Drexler,Agent Duffy,Al Capone,Anna Draper,Anthony "A.J." Soprano Jr.,Artie Bucco,Arturo Beltran Leyva,Arya Stark,Barristan Selmy,Benjamín Arellano Félix,Bill Zorzi,Bobby Reed,Bronn,Butch Sears,Carlos Córdova,Catelyn Stark,Charmaine Bucco,Christeson,Christopher Moltisanti,César Gaviria,D'Angelo Barksdale,Daario Naharis,Daniel Van Ness,Dante,Dr. Randall Frazier,Ed Heath,Edward Bader,Ellaria Sand,Enedina Arellano Félix,Enoch "Nucky" Thompson,Ernesto "Don Neto" Fonseca Carrillo,Eton Ben-Eleazer,Eugene Pontecorvo,Federico Diaz,Felicia "Snoop" Pearson,Frog,Gabriella Dante,Gene Hofstadt,Gerard,Gillian Darmody,Grace,Greg Harris,Greg Hirsch,Grey Worm,Guadalupe Leija Serrano ("Lupita"),Gyp Rosetti,Harry Daugherty,Helmer "Pacho" Herrera,Hugo Baker,Izembaro,Jaime Lannister,Jamie Laird,Jane Sterling,Jeff Price,Joffrey Baratheon,John Clay Walker,John Gavin,John Mathis,Johnny "Fifty" Spamanto,Jorge Ochoa,Jorge Salcedo Cabrera,Jory Cassel,Joseph "Proposition Joe" Stewart,Joyce Ramsay,Kerry Castellabate,Kevan Lannister,La La,Lawrence Gonzales,Lawrence Yee,Limón,Lisa Arthur,Locke,Logan Delos,Lorraine,Lothar Frey,Lysa Arryn,Major Craddock,Malik "Poot" Carr,Marcia Donnelly,Marillion,Mary Dittrich,Matthos Seaworth,Maurice Levy,Meadow Soprano,Michael Ginsberg,Midge Daniels,Miguel Rodriguez Orejuela,Namond Brice,Naomi Pierce,Navegante,Nelson "El Negrito" Hernández[10],Nerese Campbell,Obara Sand,Omar Little,Orlando Henao Montoya,Pablo Acosta,Peggy Olson,Peter Abernathy,Phil Leotardo,Rafael Aguilar Guajardo,Ralph Capone,Ramón Arellano Félix,Randyll Tarly,Rast,Raylene Lee,Reginald "Bubbles" Cousins,Rhea Jarrell,Rhonda Pearlman,Richard "Dickie" Moltisanti,Robert "Bobby" Brown,Roberto "Poison" Ramos,Rodrik Cassel,Rogelio,Rosalie Aprile,Selyse Florent,Shireen Baratheon,Silvio Dante,Spice King,Spider,Steven Luxenberg,Steven Murphy,Syrio Forel,Terrance "Fitz" Fitzhugh,Thomas Klebanow,Thoros of Myr,Tomas Morlet,Tommen Baratheon,Tosha Mitchell,Trudy Campbell,Varys,William "The Bunk" Moreland,Wyatt
+Benjamín Arellano Félix==Greg Hirsch
+Ralph Capone==Thomas Klebanow
+Steven Luxenberg==Meadow Soprano
+Syrio Forel==Rosalie Aprile
+Peggy Olson==Benjamín Arellano Félix
+Lothar Frey==Logan Delos
+Wyatt==Robert "Bobby" Brown
+Ralph Capone==Izembaro
+Malik "Poot" Carr==Christeson
+Jeff Price==Trudy Campbell
+Steven Luxenberg==Agent Duffy
+Robert "Bobby" Brown==Omar Little
+Rogelio==Carlos Córdova
+Michael Ginsberg==Thoros of Myr
+Meadow Soprano==Anna Draper
+Greg Harris==Lawrence Yee
+Barristan Selmy==Rogelio
+Tosha Mitchell==Anthony "A.J." Soprano Jr.
+Benjamín Arellano Félix==Spice King
+Ernesto "Don Neto" Fonseca Carrillo==Enoch "Nucky" Thompson
+Maurice Levy==Thomas Klebanow
+Logan Delos==Phil Leotardo
+Roberto "Poison" Ramos==Pablo Acosta
+Shireen Baratheon==Rhonda Pearlman
+Joyce Ramsay==Pablo Acosta
+Grace==Lysa Arryn
+Arya Stark==Miguel Rodriguez Orejuela
+Ramón Arellano Félix==Dr. Randall Frazier
+Christopher Moltisanti==Jory Cassel
+Johnny "Fifty" Spamanto==Gyp Rosetti
+Bronn==Jorge Ochoa
+Obara Sand==Wyatt
+Joseph "Proposition Joe" Stewart==Jory Cassel
+Joffrey Baratheon==César Gaviria
+Carlos Córdova==Ralph Capone
+Nelson "El Negrito" Hernández[10]==Daario Naharis
+Eugene Pontecorvo==Gabriella Dante
+Navegante==Grey Worm
+Jeff Price==Abe Drexler
+Bobby Reed==Jeff Price
+Rhea Jarrell==Barristan Selmy
+Lothar Frey==Rhonda Pearlman
+D'Angelo Barksdale==Locke
+Navegante==Omar Little
+Ernesto "Don Neto" Fonseca Carrillo==Barristan Selmy
+Lawrence Gonzales==Roberto "Poison" Ramos
+Christeson==Nerese Campbell
+Hugo Baker==Lawrence Gonzales
+Thomas Klebanow==Ramón Arellano Félix
+Lysa Arryn==Ernesto "Don Neto" Fonseca Carrillo
+Wyatt==Obara Sand
+Phil Leotardo==Peggy Olson
+Tosha Mitchell==Guadalupe Leija Serrano ("Lupita")
+D'Angelo Barksdale==Ellaria Sand
+Jory Cassel==Miguel Rodriguez Orejuela
+Rafael Aguilar Guajardo==Harry Daugherty
+Lothar Frey==Bobby Reed
+Varys==Joyce Ramsay
+Jane Sterling==Charmaine Bucco
+Marillion==Federico Diaz
+Gerard==Johnny "Fifty" Spamanto
+Ramón Arellano Félix==Bill Zorzi
+Gillian Darmody==Grey Worm
+Daario Naharis==Arturo Beltran Leyva
+Artie Bucco==Shireen Baratheon
+Bill Zorzi==Lisa Arthur
+Michael Ginsberg==Gene Hofstadt
+Eugene Pontecorvo==Naomi Pierce
+Enedina Arellano Félix==Navegante
+Jory Cassel==Ramón Arellano Félix
+Locke==Logan Delos
+Major Craddock==Grace
+Wyatt==Abe Drexler
+Al Capone==Lothar Frey
+Matthos Seaworth==Navegante
+Tomas Morlet==Marcia Donnelly
+Orlando Henao Montoya==Spider
+Nerese Campbell==John Gavin
+Frog==Christopher Moltisanti
+Joffrey Baratheon==Ellaria Sand
+Jane Sterling==Izembaro
+Jaime Lannister==Hugo Baker
+Felicia "Snoop" Pearson==Lisa Arthur
+Pablo Acosta==Robert "Bobby" Brown
+Robert "Bobby" Brown==Jane Sterling
+Tosha Mitchell==Catelyn Stark
+Rodrik Cassel==Richard "Dickie" Moltisanti
+Joffrey Baratheon==Federico Diaz
+Logan Delos==D'Angelo Barksdale
+César Gaviria==Edward Bader
+Enoch "Nucky" Thompson==Eton Ben-Eleazer
+Jamie Laird==Syrio Forel
+Midge Daniels==Izembaro
+Mary Dittrich==Pablo Acosta
+Bobby Reed==Frog
+Nelson "El Negrito" Hernández[10]==Rhonda Pearlman
+Charmaine Bucco==Grey Worm
+Kevan Lannister==Thoros of Myr
+Spider==Pablo Acosta
+Artie Bucco==Orlando Henao Montoya
+Ed Heath==Kevan Lannister
+Jaime Lannister==Namond Brice
+Locke==Nelson "El Negrito" Hernández[10]
+Arya Stark==Rast
+Arturo Beltran Leyva==Dante
+Thoros of Myr==Logan Delos
+Matthos Seaworth==Omar Little
+Tosha Mitchell==Eton Ben-Eleazer
+William "The Bunk" Moreland==Steven Luxenberg
+Silvio Dante==Catelyn Stark
+Mary Dittrich==Miguel Rodriguez Orejuela
+César Gaviria==Thomas Klebanow
+Meadow Soprano==Butch Sears
+Bronn==Varys
+Barristan Selmy==Benjamín Arellano Félix
+Steven Murphy==Jory Cassel
+Locke==Thomas Klebanow
+Kevan Lannister==Tommen Baratheon
+Meadow Soprano==Reginald "Bubbles" Cousins
+Marcia Donnelly==Anna Draper
+Felicia "Snoop" Pearson==Terrance "Fitz" Fitzhugh
+Lysa Arryn==Marillion
+Christeson==Rogelio
+Trudy Campbell==William "The Bunk" Moreland
+Bill Zorzi==Bronn
+Agent Duffy==Greg Hirsch
+Naomi Pierce==Grey Worm
+Dante==Hugo Baker
+Jory Cassel==Gabriella Dante
+Rhea Jarrell==Peter Abernathy
+Reginald "Bubbles" Cousins==Arturo Beltran Leyva
+Helmer "Pacho" Herrera==Shireen Baratheon
+Kerry Castellabate==Jorge Ochoa
+Charmaine Bucco==Joyce Ramsay
+Phil Leotardo==Federico Diaz
+Steven Luxenberg==Lysa Arryn
+Joffrey Baratheon==Richard "Dickie" Moltisanti
+Peter Abernathy==Namond Brice
+Gene Hofstadt==Charmaine Bucco
+Michael Ginsberg==Christeson
+#
+Adriana La Cerva,Ana Gaviria,Angelo Buscetta,Anita Olson Respola,Anthony "A.J." Soprano Jr.,Augustus Haynes,Benjen Stark,Betty Draper,Biter,Black Walder Rivers,Bran Stark,Brianna Barksdale,Carlo Gervasi,Carmela Soprano,Caroline Massey,Charles "Lucky" Luciano,Charlie,Charlotte Hale,Clarence Royce,Clarenzo,Colonel Hugo Martínez,Commander Guillermo González Calderoni,Danilo Garza,Dolores Abernathy,Doran Martell,Ed Norris,Eduard Asgarov,Edward Bader,Elisa Álvarez,Ellaria Sand,Emily Grace,Enoch "Nucky" Thompson,Francine Hanson,Gaston Bullock Means,Gilly,Greg Harris,Greg Hirsch,Hot Pie,Ilyn Payne,Jack Dorian,Jaime Lannister,Javier Arellano Félix,Jeff Price,John Hooker,Joseph "Proposition Joe" Stewart,Juan Nepomuceno Guerra,Karolina Novotney,Keith Charles,Leander Cephas Whitlock,Leander Sydnor,Lee Sizemore,Little Big Roy,Little Sam,Locke,Lommy Greenhands,Lorraine,Lothar Frey,Louanne Pratt,Maester Luwin,Major Craddock,Michael Crutchfield,Michael Santangelo,Mona Sterling,Monk Metcalf,Mrs. McGarry,Nate Sofrelli,Old Face Andre,Paul "Little Paulie" Germani,Pearl,Petyr "Littlefinger" Baelish,Pypar,Qhorin Halfhand,Ramon Salgado,Ray,Rhea Jarrell,Robert "Bobby Bacala" Baccalieri,Robert Baratheon,Roger Sterling,Roland,Ros,Sally Draper,Sandy Furness,Shardene Innes,Silvio Dante,Steelshanks Walton,Sylvia Rosen,Theon Greyjoy,Tomas Morlet,Vernon "Ott" Motley,Vernon Holley,Whitman,William Rawls
+Old Face Andre==Black Walder Rivers
+Rhea Jarrell==Emily Grace
+Jack Dorian==Benjen Stark
+Pypar==John Hooker
+Rhea Jarrell==Brianna Barksdale
+Locke==Lothar Frey
+Anthony "A.J." Soprano Jr.==Carmela Soprano
+Carlo Gervasi==Maester Luwin
+Commander Guillermo González Calderoni==Edward Bader
+Caroline Massey==Benjen Stark
+Anita Olson Respola==Sandy Furness
+Adriana La Cerva==Little Sam
+Monk Metcalf==Ramon Salgado
+Keith Charles==Pearl
+Petyr "Littlefinger" Baelish==Lee Sizemore
+Augustus Haynes==Bran Stark
+Carmela Soprano==Ed Norris
+Ray==Robert Baratheon
+Colonel Hugo Martínez==Juan Nepomuceno Guerra
+Gilly==Clarenzo
+Doran Martell==Jaime Lannister
+Bran Stark==Little Sam
+Augustus Haynes==Clarenzo
+Louanne Pratt==Adriana La Cerva
+Brianna Barksdale==Roger Sterling
+Angelo Buscetta==Lommy Greenhands
+William Rawls==Silvio Dante
+Karolina Novotney==Pypar
+Hot Pie==Ilyn Payne
+Karolina Novotney==Ray
+Edward Bader==Carmela Soprano
+Clarence Royce==Elisa Álvarez
+Elisa Álvarez==Lommy Greenhands
+John Hooker==Lee Sizemore
+Charlie==Joseph "Proposition Joe" Stewart
+Javier Arellano Félix==Anita Olson Respola
+Paul "Little Paulie" Germani==Betty Draper
+Petyr "Littlefinger" Baelish==Clarence Royce
+Sally Draper==Pypar
+Qhorin Halfhand==Silvio Dante
+Colonel Hugo Martínez==Clarence Royce
+Augustus Haynes==Adriana La Cerva
+Charlie==Javier Arellano Félix
+Commander Guillermo González Calderoni==Lothar Frey
+Lommy Greenhands==Monk Metcalf
+Lothar Frey==Roger Sterling
+Little Sam==Leander Sydnor
+Black Walder Rivers==Edward Bader
+Tomas Morlet==Vernon "Ott" Motley
+Angelo Buscetta==Sandy Furness
+Javier Arellano Félix==Little Big Roy
+Clarence Royce==Theon Greyjoy
+Brianna Barksdale==Michael Crutchfield
+Paul "Little Paulie" Germani==Karolina Novotney
+Leander Cephas Whitlock==Major Craddock
+Shardene Innes==Jack Dorian
+Little Sam==Adriana La Cerva
+Charlotte Hale==Leander Cephas Whitlock
+Gilly==Carmela Soprano
+Vernon Holley==Vernon "Ott" Motley
+Ilyn Payne==Hot Pie
+Carmela Soprano==Pypar
+Charles "Lucky" Luciano==Robert Baratheon
+Pypar==Clarenzo
+Sally Draper==Shardene Innes
+Greg Hirsch==Keith Charles
+Robert Baratheon==Silvio Dante
+Qhorin Halfhand==Charlotte Hale
+Maester Luwin==Eduard Asgarov
+Jeff Price==Robert "Bobby Bacala" Baccalieri
+Leander Sydnor==Ray
+Roger Sterling==Clarenzo
+Greg Harris==Ramon Salgado
+Gilly==Sally Draper
+Locke==Ros
+Emily Grace==Roland
+Pearl==Old Face Andre
+Carmela Soprano==Brianna Barksdale
+Sally Draper==Little Big Roy
+Silvio Dante==Clarence Royce
+Leander Sydnor==Charlie
+Sally Draper==Keith Charles
+Robert Baratheon==Petyr "Littlefinger" Baelish
+Greg Harris==Biter
+Maester Luwin==Jeff Price
+Keith Charles==Little Big Roy
+Dolores Abernathy==Sylvia Rosen
+Lothar Frey==Nate Sofrelli
+Louanne Pratt==Whitman
+Brianna Barksdale==Clarence Royce
+Tomas Morlet==Juan Nepomuceno Guerra
+#
+Abe Drexler,Agent Duffy,Akecheta,Al Capone,Alberto Suarez,Amat Palacios,Ambassador Noonan,Amory Lorch,Ana Gaviria,Andrea Nuñez,Anita Olson Respola,Anthony "A.J." Soprano Jr.,Anthony Colicchio,Arya Stark,Barristan Selmy,Benjamín Arellano Félix,Benjen Stark,Benny Fazio,Bill Stechner,Bill Zorzi,Bob Benson,Bobby Reed,Brianna Barksdale,Brynden Tully,Carlos Córdova,Carlos Hank Gonzalez,Carmine "Little Carmine" Lupertazzi,Charmaine Bucco,Chris Feistl,Christeson,Christopher Moltisanti,Chucho Peña,Claudio Salazar,Coleman Parker,Commander Guillermo González Calderoni,Connor Roy,Craig Mills,César Gaviria,Daniel Phelan,David Rodríguez,Dontos Hollard,Dr. David Parenti,Duquan "Dukie" Weems,Ed Gifford,Edmure Tully,Eduard Asgarov,Eduardo Sandoval,Edward "Eddie" Kessler,Elena McNulty,Elisa Álvarez,Ernesto "Don Neto" Fonseca Carrillo,Ethan Thompson,Father John Gill,Fernando Galeano,Francisco Rafael Arellano Félix,Frank Capone,Frank Vernon,Gaston Bullock Means,Giggles,Gil Eavis,Gilberto Rodriguez,Gillian Darmody,Giovanni "Johnny Boy" Soprano,Gustavo de Greiff,Hot Pie,Ida Blankenship,Irri,Iverson Roy,Jaime Kuykendall,James "Jimmy" Darmody,Jamie Laird,Jane Sterling,Jen Carcetti,Jess Jordan,Jim Ferguson,Joe Masseria,Jon Snow,Joseph "Proposition Joe" Stewart,Judy Moncada,Katy,Kenny Moss,Kerry Castellabate,Khal Drogo,Kovarro,Kraznys mo Nakloz,Lane Pryce,Leaf,Limón,Little Sam,Livia Soprano,Logan Delos,Lorraine,Lucy Danziger,Maester Aemon,Maester Luwin,Maester Wolkan,Maeve Millay,Marie Calvet,Mark Ravenhead,Marta Ochoa,Melisandre,Melvin "Cheese" Wagstaff,Meredith,Michael Santangelo,Mika Camarena,Musashi[v],Myranda,Myrcella Baratheon,Namond Brice,Naomi Pierce,Navegante,Nerese Campbell,Night King,Olenna Tyrell,Othell Yarwyck,Pablo Acosta,Paola Salcedo,Qhono,Qyburn,Rachel Menken,Ramon Salgado,Raymond Foerster,Rebus,Renly Baratheon,Rhonda Pearlman,Rickard Karstark,Robert Baratheon,Salvatore "Big Pussy" Bonpensiero,Sandi Furness,Sandor "The Hound" Clegane,Septa Mordane,Shirley,Siobhan "Shiv" Roy,Stannis Baratheon,Steven Luxenberg,Sureshot,The Waif,Thenn Warg,Theon Greyjoy,Theresa Cullen,Theresa D'Agostino,The Contessa,Thomas Klebanow,Three-Eyed Raven,Tommy Carcetti,Tormund Giantsbane,Trudy Campbell,Wallace,Walon,William Rawls
+Eduardo Sandoval==Bill Zorzi
+Elisa Álvarez==Paola Salcedo
+Melvin "Cheese" Wagstaff==Sandi Furness
+Sandi Furness==Ernesto "Don Neto" Fonseca Carrillo
+Amory Lorch==Coleman Parker
+Ida Blankenship==Katy
+Tommy Carcetti==Naomi Pierce
+Amory Lorch==Bill Stechner
+Christopher Moltisanti==Frank Capone
+Elisa Álvarez==Leaf
+Ed Gifford==Theon Greyjoy
+Tommy Carcetti==Jess Jordan
+Mark Ravenhead==Musashi[v]
+Francisco Rafael Arellano Félix==Judy Moncada
+Thenn Warg==Three-Eyed Raven
+Sandor "The Hound" Clegane==Abe Drexler
+Three-Eyed Raven==Wallace
+The Contessa==Eduardo Sandoval
+Giggles==Thenn Warg
+Duquan "Dukie" Weems==Commander Guillermo González Calderoni
+Marta Ochoa==Night King
+Theresa Cullen==Arya Stark
+The Waif==Benny Fazio
+Meredith==Elisa Álvarez
+Jim Ferguson==Bob Benson
+Fernando Galeano==Elena McNulty
+Sureshot==The Waif
+Dontos Hollard==Night King
+Jaime Kuykendall==Craig Mills
+Theresa Cullen==Father John Gill
+Leaf==Stannis Baratheon
+Salvatore "Big Pussy" Bonpensiero==Lane Pryce
+Eduardo Sandoval==Ed Gifford
+Maester Luwin==Carlos Córdova
+Jaime Kuykendall==Nerese Campbell
+Ida Blankenship==Fernando Galeano
+Bob Benson==Rachel Menken
+Amory Lorch==Tommy Carcetti
+Lorraine==William Rawls
+Walon==Limón
+Al Capone==Theon Greyjoy
+Amat Palacios==Andrea Nuñez
+Tommy Carcetti==Judy Moncada
+Brynden Tully==Mika Camarena
+Commander Guillermo González Calderoni==Meredith
+Myrcella Baratheon==Giovanni "Johnny Boy" Soprano
+Raymond Foerster==Jane Sterling
+Anthony Colicchio==Bob Benson
+Anita Olson Respola==Edmure Tully
+Little Sam==Gillian Darmody
+Akecheta==Michael Santangelo
+Leaf==Kerry Castellabate
+Raymond Foerster==Leaf
+Bill Stechner==Al Capone
+Wallace==Bill Zorzi
+Kerry Castellabate==Joseph "Proposition Joe" Stewart
+Shirley==Elisa Álvarez
+Chris Feistl==Jaime Kuykendall
+Eduardo Sandoval==Ambassador Noonan
+Wallace==Benny Fazio
+Iverson Roy==Theon Greyjoy
+Giovanni "Johnny Boy" Soprano==Maester Luwin
+Carlos Córdova==Stannis Baratheon
+Rebus==Myranda
+Nerese Campbell==Duquan "Dukie" Weems
+Carlos Córdova==Edward "Eddie" Kessler
+Naomi Pierce==Thenn Warg
+The Contessa==Brynden Tully
+Melisandre==Ambassador Noonan
+Iverson Roy==Limón
+Christopher Moltisanti==Leaf
+Little Sam==Kerry Castellabate
+Little Sam==Gilberto Rodriguez
+Giggles==Jaime Kuykendall
+Christeson==Navegante
+Maeve Millay==Sandor "The Hound" Clegane
+Septa Mordane==Wallace
+Edward "Eddie" Kessler==Jaime Kuykendall
+Theon Greyjoy==Melvin "Cheese" Wagstaff
+Michael Santangelo==Melvin "Cheese" Wagstaff
+Christopher Moltisanti==Tommy Carcetti
+Jamie Laird==Agent Duffy
+Logan Delos==Bill Zorzi
+Raymond Foerster==Carlos Hank Gonzalez
+Carlos Córdova==Walon
+Ida Blankenship==Jen Carcetti
+Benjen Stark==Qhono
+Raymond Foerster==Joe Masseria
+Jamie Laird==Bob Benson
+Myrcella Baratheon==Little Sam
+Coleman Parker==Eduard Asgarov
+Ernesto "Don Neto" Fonseca Carrillo==Wallace
+Jaime Kuykendall==Steven Luxenberg
+Pablo Acosta==Ramon Salgado
+Navegante==Anthony Colicchio
+Khal Drogo==Ethan Thompson
+Katy==David Rodríguez
+Myrcella Baratheon==Wallace
+Edward "Eddie" Kessler==Navegante
+Myranda==Raymond Foerster
+Kerry Castellabate==Logan Delos
+Walon==Lane Pryce
+Dontos Hollard==Trudy Campbell
+Qhono==Ethan Thompson
+Gilberto Rodriguez==Tommy Carcetti
+Maester Luwin==Francisco Rafael Arellano Félix
+Jamie Laird==Hot Pie
+Shirley==Siobhan "Shiv" Roy
+Ethan Thompson==Brynden Tully
+Carlos Córdova==Christeson
+Maester Wolkan==Carmine "Little Carmine" Lupertazzi
+Carlos Córdova==Al Capone
+Olenna Tyrell==Bob Benson
+The Contessa==Gaston Bullock Means
+Carlos Córdova==Mark Ravenhead
+Thenn Warg==Gustavo de Greiff
+Duquan "Dukie" Weems==Melvin "Cheese" Wagstaff
+Musashi[v]==Carmine "Little Carmine" Lupertazzi
+Nerese Campbell==Limón
+Kenny Moss==Gil Eavis
+Jen Carcetti==Jane Sterling
+Limón==Livia Soprano
+Logan Delos==Khal Drogo
+The Contessa==Ed Gifford
+Robert Baratheon==Nerese Campbell
+Maeve Millay==Kenny Moss
+Carlos Hank Gonzalez==Edmure Tully
+Siobhan "Shiv" Roy==Lane Pryce
+Hot Pie==Anthony Colicchio
+Elena McNulty==Theresa D'Agostino
+Steven Luxenberg==Robert Baratheon
+Sureshot==Logan Delos
+Wallace==Craig Mills
+Agent Duffy==Judy Moncada
+Livia Soprano==Coleman Parker
+Thenn Warg==Thomas Klebanow
+Musashi[v]==Andrea Nuñez
+Kovarro==Ed Gifford
+Marie Calvet==Edward "Eddie" Kessler
+Jane Sterling==Three-Eyed Raven
+Sandi Furness==Ed Gifford
+Walon==Limón
+Pablo Acosta==Lorraine
+Mika Camarena==William Rawls
+#
+Akecheta,Albert "Chalky" White,Alex Hodoyan,Alliser Thorne,Amat Palacios,Angela Darmody,Angelo Buscetta,Anton "Stinkum" Artis,Arnold Rothstein,Artie Bucco,Bill Stechner,Caroline,Charles "Lucky" Luciano,Claudell Withers,Colonel Hugo Martínez,Connie Murphy,Craig,Dickon Tarly,Donut,Dr. Randall Frazier,Edmure Tully,Edward "Eddie" Kessler,Elsie Hughes,Felicia "Snoop" Pearson,Fernando Galeano,Frank Capone,Gaston Bullock Means,Gonzalo Rodríguez Gacha,Grey Worm,Gustavo Gaviria,Gustavo de Greiff,Harrag,Harry Crane,Henry Francis,Hot Pie,James Whiting,Jane Sterling,Javier Arellano Félix,Javier Peña,Jennifer Melfi,Joe Masseria,John "Johnny Sack" Sacrimoni,Jojen Reed,Jorge Ochoa,Jorge Salcedo Cabrera,Juan García Abrego,Justin,Keith Charles,Kenneth Dozerman,Kimmy,Lawrence Gonzales,Lisa Arthur,Little Sam,Lloyd "Truck" Garrick,Logan Delos,Lorraine,Maester Luwin,Michael McNulty,Mika Camarena,Miss Duquette,Nat Coxson,Oberyn Martell,Owen Sleater,Pablo Acosta,Phil Leotardo,Preston "Bodie" Broadus,Pyat Pree,Ramon Salgado,Randy Wagstaff,Ray Cole,Robert Baratheon,Roberto "Poison" Ramos,Robin Arryn,Roger Sterling,Roland "Prez" Pryzbylewski,Roman Roy,Ruth Arellano Félix,Sal Orozco,Sally Wheet,Sandor "The Hound" Clegane,Spice King,Steelshanks Walton,Teddy Flood,Thomas Klebanow,Thoros of Myr,Vernon Holley,Vito Spatafore,Walt Breslin,Wendell "Orlando" Blocker
+Colonel Hugo Martínez==Robin Arryn
+Walt Breslin==Bill Stechner
+Ruth Arellano Félix==Edward "Eddie" Kessler
+Sandor "The Hound" Clegane==Lawrence Gonzales
+Vito Spatafore==Craig
+Lloyd "Truck" Garrick==Preston "Bodie" Broadus
+Nat Coxson==Walt Breslin
+Dickon Tarly==Craig
+Colonel Hugo Martínez==Steelshanks Walton
+Roland "Prez" Pryzbylewski==Mika Camarena
+Fernando Galeano==Jane Sterling
+Miss Duquette==Gustavo de Greiff
+Juan García Abrego==Justin
+Roland "Prez" Pryzbylewski==Joe Masseria
+Michael McNulty==Anton "Stinkum" Artis
+Pyat Pree==Thomas Klebanow
+Javier Peña==Gaston Bullock Means
+Akecheta==Kenneth Dozerman
+Dr. Randall Frazier==Albert "Chalky" White
+Roger Sterling==Arnold Rothstein
+Kimmy==Logan Delos
+Preston "Bodie" Broadus==Roman Roy
+Owen Sleater==Steelshanks Walton
+Anton "Stinkum" Artis==Justin
+Dr. Randall Frazier==Fernando Galeano
+Ray Cole==Angela Darmody
+Ramon Salgado==Fernando Galeano
+Preston "Bodie" Broadus==Mika Camarena
+Vito Spatafore==Connie Murphy
+Jorge Ochoa==Ruth Arellano Félix
+Maester Luwin==Akecheta
+Charles "Lucky" Luciano==Walt Breslin
+Hot Pie==Dickon Tarly
+Roberto "Poison" Ramos==Harry Crane
+Jojen Reed==Miss Duquette
+Kimmy==Phil Leotardo
+Edmure Tully==Connie Murphy
+Dickon Tarly==Spice King
+Vito Spatafore==Elsie Hughes
+Kenneth Dozerman==Sally Wheet
+Angelo Buscetta==James Whiting
+Craig==Teddy Flood
+Owen Sleater==Henry Francis
+Connie Murphy==Roberto "Poison" Ramos
+Charles "Lucky" Luciano==Keith Charles
+Ruth Arellano Félix==Alex Hodoyan
+Sal Orozco==Frank Capone
+Sally Wheet==Thomas Klebanow
+James Whiting==Sandor "The Hound" Clegane
+Justin==Grey Worm
+Joe Masseria==Albert "Chalky" White
+Dr. Randall Frazier==Jojen Reed
+Elsie Hughes==Sandor "The Hound" Clegane
+Thomas Klebanow==Phil Leotardo
+Donut==Elsie Hughes
+Mika Camarena==Craig
+Felicia "Snoop" Pearson==Hot Pie
+Little Sam==Jojen Reed
+Kimmy==Angela Darmody
+Gaston Bullock Means==Sal Orozco
+Roberto "Poison" Ramos==Albert "Chalky" White
+Kimmy==Vernon Holley
+Little Sam==James Whiting
+Pablo Acosta==Jorge Salcedo Cabrera
+Craig==Spice King
+Gaston Bullock Means==Caroline
+Pablo Acosta==Jorge Ochoa
+Angela Darmody==Fernando Galeano
+Robin Arryn==Arnold Rothstein
+Sal Orozco==Pyat Pree
+Michael McNulty==Sandor "The Hound" Clegane
+Roberto "Poison" Ramos==Wendell "Orlando" Blocker
+Albert "Chalky" White==Phil Leotardo
+Lisa Arthur==Jane Sterling
+Sandor "The Hound" Clegane==Lloyd "Truck" Garrick
+Dr. Randall Frazier==Steelshanks Walton
+Jojen Reed==Angelo Buscetta
+Robin Arryn==Lisa Arthur
+Spice King==Harry Crane
+Thomas Klebanow==Angela Darmody
+Roger Sterling==Javier Arellano Félix
+Spice King==Logan Delos
+Little Sam==Joe Masseria
+Keith Charles==Jennifer Melfi
+Roberto "Poison" Ramos==Robert Baratheon
+Sal Orozco==Charles "Lucky" Luciano
+John "Johnny Sack" Sacrimoni==Jane Sterling
+Kenneth Dozerman==Harry Crane
+Albert "Chalky" White==Craig
+Michael McNulty==Preston "Bodie" Broadus
+#
+Agent Duffy,Alliser Thorne,Alton Lannister,Ana Gaviria,Andrew Mellon,Angela Darmody,Angelo Buscetta,Anthony "Tony" Gray,Ashley Stubbs,Beatrice "Beadie" Russell,Betty Draper,Billy Chenowith,Black Walder Rivers,Butch Sears,Carlos Hank Gonzalez,Carmela Soprano,Claude Diggins,Claudia Messina,Craig Mills,Daniel Phelan,De'Londa Brice,Donette,Dunn Purnsley,Duquan "Dukie" Weems,Ed Norris,Eduard Asgarov,Eduardo Arellano Félix,Elena McNulty,Everardo Arturo “Kitty” Paez,Fernando Galeano,Frog,Gaston Bullock Means,Gil Eavis,Gillian Darmody,Gonzalo Rodríguez Gacha,Guillermo Pallomari,Gyp Rosetti,Harald Karstark,Hector Escaton,Hot Pie,Héctor Luis Palma Salazar,Jay Landsman,Jeor Mormont,Jim Ferguson,Joaquín "El Chapo" Guzmán,Joey Baird,Jorge Salcedo Cabrera,José "Chepe" Santacruz-Londoño,Joyce Ramsay,Juan García Abrego,Katherine Olson,Katy,Khal Drogo,Kraznys mo Nakloz,Leaf,Livia Soprano,Lorraine,Louanne Pratt,Louis Sobotka,Lyanna Mormont,Maria Elvira,Mary Dittrich,Michael Crutchfield,Norman Wilson,Oberyn Martell,Olly,Olyvar,Omar Little,Orell,Othell Yarwyck,Pablo Acosta,Paola Salcedo,Paul Kinsey,Paulie Gualtieri,Pete Campbell,Petyr "Littlefinger" Baelish,Phil Leotardo,Podrick Payne,Pyat Pree,Qhono,Rakharo,Randy Wagstaff,Randyll Tarly,Rast,Ray Cole,Raylene Lee,Renly Baratheon,Rhea Jarrell,Rickon Stark,Robert "Bobby" Brown,Rodrik Cassel,Roger Twigg,Roland,Rorge,Ruth Fisher,Salvador Osuna Nava,Silvio Dante,Siobhan "Shiv" Roy,Slim Miller,Spider,Spiros "Vondas" Vondopoulos,Steven Murphy,The Greek,Theresa D'Agostino,Thomas Buehl,Thoros of Myr,Vito Spatafore,Wendell "Orlando" Blocker,Wyatt,Ygritte,Yoren
+Betty Draper==Randy Wagstaff
+Mary Dittrich==Livia Soprano
+Wendell "Orlando" Blocker==Rodrik Cassel
+Eduardo Arellano Félix==Omar Little
+Theresa D'Agostino==Randyll Tarly
+Louis Sobotka==Salvador Osuna Nava
+Jeor Mormont==Butch Sears
+Thomas Buehl==Oberyn Martell
+Paola Salcedo==Anthony "Tony" Gray
+Jim Ferguson==Pyat Pree
+Jeor Mormont==Lorraine
+Angelo Buscetta==Siobhan "Shiv" Roy
+Spider==Donette
+Vito Spatafore==Robert "Bobby" Brown
+Ana Gaviria==Paulie Gualtieri
+Siobhan "Shiv" Roy==Ruth Fisher
+Gil Eavis==Eduard Asgarov
+Ruth Fisher==Thoros of Myr
+Qhono==Duquan "Dukie" Weems
+Maria Elvira==Héctor Luis Palma Salazar
+Lyanna Mormont==Silvio Dante
+Qhono==Daniel Phelan
+Gonzalo Rodríguez Gacha==Thoros of Myr
+Everardo Arturo “Kitty” Paez==Gaston Bullock Means
+Pablo Acosta==Michael Crutchfield
+Vito Spatafore==Butch Sears
+José "Chepe" Santacruz-Londoño==Theresa D'Agostino
+Maria Elvira==Jim Ferguson
+Randyll Tarly==Gaston Bullock Means
+Juan García Abrego==Alliser Thorne
+Carmela Soprano==Billy Chenowith
+Rickon Stark==Gillian Darmody
+Louis Sobotka==Kraznys mo Nakloz
+Qhono==Leaf
+The Greek==Pablo Acosta
+Silvio Dante==Olyvar
+Wyatt==Rhea Jarrell
+Fernando Galeano==Beatrice "Beadie" Russell
+Thomas Buehl==Randyll Tarly
+Podrick Payne==Black Walder Rivers
+Olly==Butch Sears
+Lyanna Mormont==Gillian Darmody
+Ray Cole==Rast
+Rast==Ruth Fisher
+Rast==Butch Sears
+Raylene Lee==Frog
+Joey Baird==Donette
+Petyr "Littlefinger" Baelish==Thoros of Myr
+Héctor Luis Palma Salazar==Norman Wilson
+Donette==Mary Dittrich
+Andrew Mellon==Silvio Dante
+Qhono==Claudia Messina
+Podrick Payne==Betty Draper
+Thomas Buehl==Claude Diggins
+Angelo Buscetta==Ed Norris
+Jorge Salcedo Cabrera==Raylene Lee
+Thomas Buehl==Lorraine
+Donette==Michael Crutchfield
+Spiros "Vondas" Vondopoulos==Louanne Pratt
+Leaf==Podrick Payne
+Hector Escaton==Claudia Messina
+Fernando Galeano==Silvio Dante
+Ed Norris==Juan García Abrego
+Black Walder Rivers==Petyr "Littlefinger" Baelish
+Michael Crutchfield==Pyat Pree
+Othell Yarwyck==Paola Salcedo
+Alton Lannister==Raylene Lee
+Claudia Messina==Thoros of Myr
+Ana Gaviria==Angelo Buscetta
+Gillian Darmody==Black Walder Rivers
+Othell Yarwyck==Spider
+Omar Little==Billy Chenowith
+Gonzalo Rodríguez Gacha==De'Londa Brice
+Randyll Tarly==Silvio Dante
+Wyatt==Oberyn Martell
+Paulie Gualtieri==Salvador Osuna Nava
+Maria Elvira==Gil Eavis
+Oberyn Martell==Agent Duffy
+Pete Campbell==Dunn Purnsley
+Thomas Buehl==Billy Chenowith
+Gil Eavis==Beatrice "Beadie" Russell
+Ruth Fisher==Frog
+Rast==Louanne Pratt
+Kraznys mo Nakloz==Rodrik Cassel
+Wendell "Orlando" Blocker==Salvador Osuna Nava
+Rickon Stark==Claudia Messina
+Rorge==Ygritte
+Thomas Buehl==Louanne Pratt
+Carmela Soprano==Olly
+Fernando Galeano==Salvador Osuna Nava
+Phil Leotardo==Joyce Ramsay
+Eduardo Arellano Félix==Eduard Asgarov
+Guillermo Pallomari==Everardo Arturo “Kitty” Paez
+Angelo Buscetta==Roland
+Jeor Mormont==Guillermo Pallomari
+Hector Escaton==Ashley Stubbs
+Slim Miller==Joey Baird
+Salvador Osuna Nava==Gil Eavis
+Rickon Stark==Agent Duffy
+Agent Duffy==Ed Norris
+Claude Diggins==Pete Campbell
+Daniel Phelan==Alliser Thorne
+Ygritte==Olyvar
+Frog==Spider
+Gyp Rosetti==Ashley Stubbs
+Orell==Robert "Bobby" Brown
+Paul Kinsey==Wendell "Orlando" Blocker
+#
+Abe Drexler,Agent Neil Stoddard,Ana Gaviria,Augustus Polk,Beatrice "Beadie" Russell,Benjamín Arellano Félix,Bernard,Bert Cooper,Big Guy,Bill Stechner,Billie Kent,Black Lorren,Black Walder Rivers,Bobby Reed,Bobono,Brianna Barksdale,Brynden Tully,Caleb Nichols,Catelyn Stark,Cedric Daniels,Cheryl,Chris Partlow,Christina Jurado,Claudell Withers,Clay Davis,Craig,Craig Mills,César Gaviria,Daario Naharis,Daniel Phelan,Danilo Garza,Daughter Maitland,De'Londa Brice,Dennis "Cutty" Wise,Duck Phillips,Eddison Tollett,Eduardo Arellano Félix,Eduardo Sandoval,Elias "Eli" Thompson,Elsie Hughes,Ethan Thompson,Father John Gill,Felix Lutz,Frank Capone,Gil Eavis,Grace,Greg Hirsch,Grey Worm,Guadalupe Leija Serrano ("Lupita"),Hector Escaton,Hodor,Hugo Baker,Héctor Luis Palma Salazar,Irri,James "Jim" Tolliver,James "Jimmy" Darmody,Janice Soprano,Janos Slynt,Javier Arellano Félix,Jeff Price,John "Johnny Sack" Sacrimoni,John Gavin,John Mathis,Johnny Weeks,Jojen Reed,Jorah Mormont,Jorge Ochoa,Juan García Abrego,Juan Nepomuceno Guerra,Karolina Novotney,Kendall Roy,Kerry Castellabate,Khal Drogo,Kiko Moncada,Kovarro,Lamar,Lancel Lannister,Lester Freamon,Liam Dempsey Jr.,Logan Roy,Lommy Greenhands,Louanne Pratt,Louis Sobotka,Lucy Danziger,Maeve Millay,Manny Horvitz,Marillion,Maui,Maurice Levy,Meadow Soprano,Miguel Rodriguez Orejuela,Mirri Maz Duur,Mrs. Grace Sampson,Mrs. McGarry,Namond Brice,Obara Sand,Oberyn Martell,Odell Watkins,Orell,Ossie Mejía,Pete Campbell,Peter Abernathy,Podrick Payne,Pypar,Rafael Aguilar Guajardo,Ralph Cifaretto,Ramon Salgado,Randy Wagstaff,Rava Roy,Ray,Rhea Jarrell,Richard Burghoff,Robb Stark,Robert "Bobby" Brown,Roger Twigg,Roland "Prez" Pryzbylewski,Roland "Wee-Bey" Brice,Ros,Sapper,Sean James McNulty,Shardene Innes,Siobhan "Shiv" Roy,Spice King,Steelshanks Walton,Suzanne Farrell,Tabitha Hayes,Talisa Maegyr,Theon Greyjoy,Thomas Buehl,Tommen Baratheon,Tommy Darmody/Slim,Trishelle,Trudy Campbell,Tyene Sand,Tyrion Lannister,Vernon "Ott" Motley,Walda Bolton,Willa Ferreyra,William "Man in Black",Yohn Royce,Yoren
+James "Jim" Tolliver==Irri
+Lommy Greenhands==James "Jim" Tolliver
+Lamar==Bobono
+James "Jimmy" Darmody==Orell
+Talisa Maegyr==Willa Ferreyra
+Yoren==Daughter Maitland
+Chris Partlow==Jorah Mormont
+William "Man in Black"==Elias "Eli" Thompson
+De'Londa Brice==Kerry Castellabate
+Juan Nepomuceno Guerra==Felix Lutz
+Shardene Innes==Pete Campbell
+Spice King==Podrick Payne
+Bernard==Juan García Abrego
+Daario Naharis==Maurice Levy
+Hugo Baker==Bobono
+Louis Sobotka==Ana Gaviria
+Hodor==John Mathis
+Willa Ferreyra==Janos Slynt
+Hodor==Bill Stechner
+Caleb Nichols==Lamar
+Yoren==Brianna Barksdale
+Elias "Eli" Thompson==Steelshanks Walton
+James "Jim" Tolliver==Spice King
+Pete Campbell==Miguel Rodriguez Orejuela
+Willa Ferreyra==Lamar
+Billie Kent==Héctor Luis Palma Salazar
+Duck Phillips==Roland "Prez" Pryzbylewski
+Dennis "Cutty" Wise==De'Londa Brice
+Peter Abernathy==Caleb Nichols
+Eduardo Arellano Félix==Bobono
+Spice King==Peter Abernathy
+Craig==Gil Eavis
+Roland "Prez" Pryzbylewski==Kovarro
+Mirri Maz Duur==Lommy Greenhands
+John Mathis==Maurice Levy
+Talisa Maegyr==Beatrice "Beadie" Russell
+Peter Abernathy==Marillion
+Mirri Maz Duur==Tabitha Hayes
+Louanne Pratt==César Gaviria
+John Gavin==Tyrion Lannister
+Hugo Baker==Daughter Maitland
+Elsie Hughes==Jeff Price
+Beatrice "Beadie" Russell==Rhea Jarrell
+Robert "Bobby" Brown==Héctor Luis Palma Salazar
+Agent Neil Stoddard==Eduardo Arellano Félix
+Roland "Prez" Pryzbylewski==Johnny Weeks
+Father John Gill==Tabitha Hayes
+Maurice Levy==Elsie Hughes
+Karolina Novotney==Yoren
+Talisa Maegyr==Clay Davis
+Big Guy==Héctor Luis Palma Salazar
+De'Londa Brice==Sean James McNulty
+Khal Drogo==Craig Mills
+Ray==César Gaviria
+Sean James McNulty==Randy Wagstaff
+Jeff Price==Bernard
+Podrick Payne==Rafael Aguilar Guajardo
+Bill Stechner==Ossie Mejía
+Elias "Eli" Thompson==Black Lorren
+Walda Bolton==Bobono
+Siobhan "Shiv" Roy==Ramon Salgado
+Roland "Prez" Pryzbylewski==Augustus Polk
+Sean James McNulty==Daniel Phelan
+Daario Naharis==Vernon "Ott" Motley
+Sapper==Marillion
+Clay Davis==Elias "Eli" Thompson
+Cedric Daniels==Mrs. McGarry
+James "Jimmy" Darmody==Lancel Lannister
+Robb Stark==Janos Slynt
+Irri==Sapper
+Maeve Millay==Janos Slynt
+Vernon "Ott" Motley==Janice Soprano
+Janice Soprano==Guadalupe Leija Serrano ("Lupita")
+Javier Arellano Félix==Roland "Wee-Bey" Brice
+Siobhan "Shiv" Roy==Eduardo Arellano Félix
+Abe Drexler==Ros
+Pete Campbell==Ros
+Miguel Rodriguez Orejuela==Khal Drogo
+Cedric Daniels==Meadow Soprano
+Podrick Payne==Felix Lutz
+Rhea Jarrell==Greg Hirsch
+Ana Gaviria==Bill Stechner
+Robert "Bobby" Brown==Gil Eavis
+Robert "Bobby" Brown==Shardene Innes
+Logan Roy==Ethan Thompson
+Oberyn Martell==Duck Phillips
+Ralph Cifaretto==Craig
+Eduardo Sandoval==Black Walder Rivers
+Vernon "Ott" Motley==Pypar
+Yohn Royce==Meadow Soprano
+Ossie Mejía==Manny Horvitz
+Craig Mills==Brianna Barksdale
+Gil Eavis==John "Johnny Sack" Sacrimoni
+Dennis "Cutty" Wise==Maurice Levy
+John Mathis==Khal Drogo
+Mrs. Grace Sampson==Craig
+Duck Phillips==Robert "Bobby" Brown
+Robb Stark==Obara Sand
+Javier Arellano Félix==Ossie Mejía
+Mrs. McGarry==Big Guy
+James "Jimmy" Darmody==Bill Stechner
+Louis Sobotka==Lester Freamon
+Jojen Reed==Eduardo Sandoval
+Daughter Maitland==Mirri Maz Duur
+Rafael Aguilar Guajardo==Craig Mills
+Yohn Royce==Bert Cooper
+Jorge Ochoa==Irri
+Tyene Sand==Big Guy
+Mrs. Grace Sampson==Peter Abernathy
+Namond Brice==Frank Capone
+Rava Roy==Khal Drogo
+Beatrice "Beadie" Russell==Roland "Prez" Pryzbylewski
+Oberyn Martell==Janice Soprano
+Craig==Daughter Maitland
+Clay Davis==Vernon "Ott" Motley
+Chris Partlow==Lancel Lannister
+Robb Stark==Juan Nepomuceno Guerra
+Trudy Campbell==Hugo Baker
+Rava Roy==John Mathis
+Rafael Aguilar Guajardo==Tommy Darmody/Slim
+Siobhan "Shiv" Roy==Obara Sand
+John Mathis==Karolina Novotney
+Mrs. Grace Sampson==Catelyn Stark
+Manny Horvitz==Tyene Sand
+Bobby Reed==Black Lorren
+Black Walder Rivers==Abe Drexler
+De'Londa Brice==Tabitha Hayes
+Roger Twigg==Tommen Baratheon
+Sapper==Walda Bolton
+Hugo Baker==De'Londa Brice
+Lamar==John "Johnny Sack" Sacrimoni
+Maeve Millay==Podrick Payne
+#
+Aaron "Bug" Manigault,Adriana La Cerva,Agent Sebso,Alex Hodoyan,Allison,Amado Carrillo Fuentes,Andrea Nuñez,Andrew Mellon,Andy Krawczyk,Antoine Costa,Arturo Beltran Leyva,Arya Stark,Augustus Polk,Benjamín Arellano Félix,Berry Schneider,Billie Kent,Black Lorren,Bobby Draper,Bobby Reed,Bobono,Bowen Marsh,Bran Stark,Brynden Tully,CIA Officer,Caleb Nichols,Carla,Catelyn Stark,Charlie,Christeson,Coleman Parker,Colonel Horacio Carrillo,Comfry Pellits,Commander Guillermo González Calderoni,Commodore Louis Kaestner,Connie Murphy,Craig,César Gaviria,Daario Naharis,Daisy,Daryl Petsky,David Fisher,David Rodríguez,Davos Seaworth,Dawn Chambers,Delores,Deputy Foss,Diana Turbay,Dickon Tarly,Don Draper,Dontos Hollard,Dr. David Parenti,Dr. Randall Frazier,Eduard Asgarov,Eduardo Arellano Félix,Eduardo Sandoval,Edward "Eddie" Kessler,Edward Bader,El León,Eton Ben-Eleazer,Euron Greyjoy,Fernando Duque,Francisco Rafael Arellano Félix,Frank Barlow,Gail Holloway,Gaston Bullock Means,Gene Hofstadt,George "Double G" Glekas,Greatjon Umber,Grenn,Guillermo Pallomari,Harrag,Ilyn Payne,Izembaro,Jack Dorian,Jaime Lannister,Jim Ferguson,Jimmy Asher,Jimmy Barrett,John Clay Walker,John Hooker,Jojen Reed,Jory Cassel,Joyce Ramsay,Juan García Abrego,Keith Zigler,Kenny Moss,Khal Drogo,Lamar,Lancel Lannister,Lauren,Leaf,Lee Sizemore,Limón,Lisa Arthur,Livia Soprano,Logan Roy,Loras Tyrell,Lyanna Mormont,Maeve's Daughter,Marie Calvet,Matthos Seaworth,Meera Reed,Melvin "Cheese" Wagstaff,Michael Ginsberg,Michael McNulty,Mika Camarena,Missandei,Myrcella Baratheon,Namond Brice,Nate Fisher,Norman Wilson,Orell,Osha,Paul "Little Paulie" Germani,Pete Campbell,Peter Abernathy,Peter Munion,Qyburn,Rafael "Rafa" Caro Quintero,Raylene Lee,Remi,Rickard Karstark,Rickon Stark,Robert "Bobby Bacala" Baccalieri,Roberto "Poison" Ramos,Robett Glover,Rogelio,Rorge,Rose Van Alden,Rupert Bond,Ruth Fisher,Sally Draper,Sammy Alvarez,Sandi Furness,Sandor "The Hound" Clegane,Selyse Florent,Septa Mordane,Sherrod,Shireen Baratheon,Sofia Conesa,Steelshanks Walton,Sureshot,Tata Escobar,Ted Chaough,The Deacon,The High Sparrow,The Waif,Theon Greyjoy,The Contessa,Thomas Klebanow,Tim Phelps,Tomas Morlet,Tommy Carcetti,Tommy Darmody/Slim,Tosha Mitchell,Trishelle,Walda Bolton,Wallace,Walon,William "Man in Black"
+Commodore Louis Kaestner==Wallace
+Antoine Costa==Carla
+Alex Hodoyan==Mika Camarena
+Izembaro==Limón
+Dr. Randall Frazier==George "Double G" Glekas
+Billie Kent==Lancel Lannister
+Michael Ginsberg==David Fisher
+Eton Ben-Eleazer==Osha
+Rogelio==Jaime Lannister
+Rafael "Rafa" Caro Quintero==Eduard Asgarov
+Michael McNulty==Christeson
+Commander Guillermo González Calderoni==Gene Hofstadt
+Delores==Sofia Conesa
+Bobono==Meera Reed
+Jimmy Asher==Black Lorren
+Delores==Daario Naharis
+Benjamín Arellano Félix==Norman Wilson
+Benjamín Arellano Félix==Michael McNulty
+Norman Wilson==Black Lorren
+David Fisher==Keith Zigler
+David Rodríguez==Allison
+Dontos Hollard==Dr. David Parenti
+Myrcella Baratheon==Marie Calvet
+Raylene Lee==Berry Schneider
+Carla==Sandor "The Hound" Clegane
+The High Sparrow==Orell
+Osha==Rogelio
+Osha==Brynden Tully
+Ruth Fisher==Robett Glover
+Izembaro==Frank Barlow
+Selyse Florent==Kenny Moss
+Christeson==Fernando Duque
+John Hooker==Missandei
+Dickon Tarly==Trishelle
+Rose Van Alden==John Clay Walker
+Osha==Walon
+Eduardo Arellano Félix==Comfry Pellits
+Nate Fisher==Pete Campbell
+Commodore Louis Kaestner==Charlie
+Lee Sizemore==Colonel Horacio Carrillo
+Bobono==William "Man in Black"
+William "Man in Black"==Bowen Marsh
+Rafael "Rafa" Caro Quintero==Frank Barlow
+Tata Escobar==Bowen Marsh
+David Rodríguez==Jaime Lannister
+Marie Calvet==Steelshanks Walton
+Deputy Foss==Rickard Karstark
+Nate Fisher==Andrew Mellon
+Lauren==CIA Officer
+Ilyn Payne==Joyce Ramsay
+Tata Escobar==David Rodríguez
+Benjamín Arellano Félix==Sandi Furness
+Davos Seaworth==Lancel Lannister
+Gene Hofstadt==Eduard Asgarov
+Christeson==Keith Zigler
+Maeve's Daughter==Carla
+Meera Reed==Tim Phelps
+Maeve's Daughter==Euron Greyjoy
+Commander Guillermo González Calderoni==Orell
+Roberto "Poison" Ramos==Ted Chaough
+Loras Tyrell==David Fisher
+Allison==David Rodríguez
+Leaf==Caleb Nichols
+George "Double G" Glekas==Carla
+Tommy Carcetti==Rose Van Alden
+Namond Brice==The Deacon
+The Waif==Colonel Horacio Carrillo
+Daisy==Caleb Nichols
+Commodore Louis Kaestner==Jimmy Barrett
+William "Man in Black"==Robert "Bobby Bacala" Baccalieri
+Black Lorren==Bobby Draper
+Diana Turbay==Lamar
+The High Sparrow==Walon
+Rogelio==Raylene Lee
+Daryl Petsky==Deputy Foss
+Eduard Asgarov==Sandor "The Hound" Clegane
+Carla==Gene Hofstadt
+Allison==Eduard Asgarov
+Rickard Karstark==Colonel Horacio Carrillo
+Ilyn Payne==Rorge
+Daisy==Maeve's Daughter
+Billie Kent==Lauren
+Dr. Randall Frazier==Livia Soprano
+David Fisher==Sandi Furness
+Sandi Furness==Nate Fisher
+Roberto "Poison" Ramos==Augustus Polk
+Gail Holloway==Antoine Costa
+Roberto "Poison" Ramos==Bobby Reed
+Jim Ferguson==Comfry Pellits
+Ilyn Payne==Deputy Foss
+Caleb Nichols==Melvin "Cheese" Wagstaff
+Comfry Pellits==Daryl Petsky
+Tommy Carcetti==Daisy
+Michael McNulty==William "Man in Black"
+Bran Stark==El León
+Allison==Izembaro
+Greatjon Umber==Lamar
+Jory Cassel==Sandor "The Hound" Clegane
+Kenny Moss==Walda Bolton
+Rogelio==Brynden Tully
+Namond Brice==Edward Bader
+Jimmy Asher==Jaime Lannister
+Eduard Asgarov==Arturo Beltran Leyva
+Sandor "The Hound" Clegane==Jack Dorian
+Roberto "Poison" Ramos==Daario Naharis
+Joyce Ramsay==Gail Holloway
+Lamar==Sureshot
+Loras Tyrell==Daryl Petsky
+Bobby Reed==Trishelle
+Sherrod==David Rodríguez
+Don Draper==Rorge
+César Gaviria==Commodore Louis Kaestner
+Andy Krawczyk==Lisa Arthur
+Limón==Grenn
+Norman Wilson==Lisa Arthur
+Christeson==Dontos Hollard
+John Clay Walker==Jojen Reed
+Sally Draper==Catelyn Stark
+Tim Phelps==Craig
+Edward "Eddie" Kessler==Michael McNulty
+Sandi Furness==David Fisher
+Bobono==Dr. David Parenti
+Rafael "Rafa" Caro Quintero==Selyse Florent
+Carla==Francisco Rafael Arellano Félix
+The High Sparrow==Diana Turbay
+CIA Officer==Euron Greyjoy
+Diana Turbay==Sandi Furness
+Walda Bolton==John Clay Walker
+The Contessa==Steelshanks Walton
+Wallace==William "Man in Black"
+Charlie==Lancel Lannister
+CIA Officer==Lauren
+Leaf==Wallace
+Gail Holloway==Bowen Marsh
+Ilyn Payne==Delores
+Augustus Polk==Sofia Conesa
+Tommy Carcetti==Tata Escobar
+Osha==Brynden Tully
+Tata Escobar==Thomas Klebanow
+Dontos Hollard==Carla
+#
+Andy Krawczyk,Armistice,Arnold Rosen,Arya Stark,Betty Draper,Bill Stechner,Black Lorren,Bowen Marsh,Brompton,Carlos Hank Gonzalez,Carmela Soprano,Caroline Massey,Charlotte Hale,Christopher Moltisanti,Claudio Salazar,Comfry Pellits,Dennis Mello,Diana Turbay,Dolores Abernathy,Doran Martell,Dunn Purnsley,Duquan "Dukie" Weems,Elisa Álvarez,Faye Miller,Gail Holloway,Gary DiPasquale,George "Double G" Glekas,Greg Harris,Irri,Jaime Lannister,James Neary,Joan Holloway,Johnny Torrio,Jojen Reed,Jorah Mormont,Khal Drogo,Khal Moro,Kiki Camarena,Kristos Koutris,Lamar,Lawrence Yee,Lester Freamon,Liam Dempsey Jr.,Logan Delos,Lou Avery,Louis Sobotka,Maeve Millay,Marcia Roy,Marlo Stanfield,Megan Draper,Meyer Lansky,Michael McNulty,Mona Sterling,Nymeria Sand,Obara Sand,Oberyn Martell,Old Face Andre,Orlando Henao Montoya,Qhono,Ramsay Bolton,Rava Roy,Sammy Alvarez,Sandi Furness,Sheriff Pickett,Stanislaus "Stan" Valchek,Styr,Tata Escobar,Theresa D'Agostino,William "Man in Black",Wyatt,Yara Greyjoy,Ygritte
+Joan Holloway==Michael McNulty
+Arnold Rosen==Dunn Purnsley
+Jaime Lannister==Khal Moro
+Christopher Moltisanti==Tata Escobar
+Brompton==Meyer Lansky
+Duquan "Dukie" Weems==Wyatt
+Greg Harris==Obara Sand
+Mona Sterling==Lamar
+Andy Krawczyk==Sandi Furness
+Marlo Stanfield==Nymeria Sand
+Orlando Henao Montoya==Dennis Mello
+Lou Avery==Meyer Lansky
+Qhono==Wyatt
+Andy Krawczyk==Arnold Rosen
+Doran Martell==Christopher Moltisanti
+Wyatt==Khal Moro
+Logan Delos==Khal Drogo
+Duquan "Dukie" Weems==Tata Escobar
+Bowen Marsh==Lou Avery
+Orlando Henao Montoya==Black Lorren
+Arnold Rosen==Greg Harris
+Jorah Mormont==Doran Martell
+Oberyn Martell==Andy Krawczyk
+Wyatt==Khal Moro
+Armistice==Greg Harris
+Marlo Stanfield==Sammy Alvarez
+Louis Sobotka==Carlos Hank Gonzalez
+Doran Martell==Dennis Mello
+Oberyn Martell==Sheriff Pickett
+Faye Miller==Stanislaus "Stan" Valchek
+Nymeria Sand==Maeve Millay
+Ramsay Bolton==Logan Delos
+Kristos Koutris==Khal Moro
+Arnold Rosen==Dolores Abernathy
+Greg Harris==Faye Miller
+Tata Escobar==Irri
+Caroline Massey==Jorah Mormont
+Qhono==Orlando Henao Montoya
+Mona Sterling==Dolores Abernathy
+Jojen Reed==Carlos Hank Gonzalez
+Orlando Henao Montoya==Khal Moro
+Meyer Lansky==Rava Roy
+Michael McNulty==Arnold Rosen
+Dolores Abernathy==Gary DiPasquale
+Michael McNulty==Arya Stark
+Dunn Purnsley==Lester Freamon
+Theresa D'Agostino==Megan Draper
+Caroline Massey==Gary DiPasquale
+Carmela Soprano==Obara Sand
+Gary DiPasquale==Christopher Moltisanti
+George "Double G" Glekas==Meyer Lansky
+Jaime Lannister==Old Face Andre
+Faye Miller==Maeve Millay
+Megan Draper==Stanislaus "Stan" Valchek
+George "Double G" Glekas==Styr
+Duquan "Dukie" Weems==Lawrence Yee
+Elisa Álvarez==Qhono
+Carlos Hank Gonzalez==Jojen Reed
+Sammy Alvarez==Megan Draper
+Comfry Pellits==Dunn Purnsley
+Diana Turbay==Oberyn Martell
+Doran Martell==Arnold Rosen
+Diana Turbay==Jorah Mormont
+Obara Sand==Gary DiPasquale
+Lester Freamon==Irri
+Marlo Stanfield==Sammy Alvarez
+Sammy Alvarez==Duquan "Dukie" Weems
+Joan Holloway==Duquan "Dukie" Weems
+Louis Sobotka==Doran Martell
+Khal Moro==Lester Freamon
+Elisa Álvarez==Caroline Massey
+Dunn Purnsley==Kristos Koutris
+Mona Sterling==Louis Sobotka
+Old Face Andre==Orlando Henao Montoya
+Irri==Stanislaus "Stan" Valchek
+Obara Sand==Nymeria Sand
+Christopher Moltisanti==Wyatt
+Styr==Meyer Lansky
+Irri==Dolores Abernathy
+Lester Freamon==Obara Sand
+Sammy Alvarez==Dunn Purnsley
+#
+Agent Owen,Angela,Angela Darmody,Anton "Stinkum" Artis,Arnold Rothstein,Bobby Draper,Bran Stark,Connor Roy,Darius "O-Dog" Hill,Edmure Tully,Edward Bader,Elias "Eli" Thompson,Ellis Carver,Enrique Clavel,Ervin Burrell,Fabio Ochoa,Federico Diaz,Frank Vernon,Fruit,Gabriella Dante,Gene Hofstadt,Giggles,Gilberto Rodriguez,Goldberg,Gyp Rosetti,Harrag,Hot Pie,Irri,Isabelle Jeunet,Ismael "El Mayo" Zambada,Jeor Mormont,Johnny Weeks,Karolina Novotney,Kenny Moss,Lancel Lannister,Leander Sydnor,Mace Tyrell,Maeve's Daughter,Maling,Marina Ochoa,Megan Draper,Meyer Lansky,Michael Steintorf,Nick Sobotka,Olenna Tyrell,Patsy Parisi,Pete Campbell,Qotho,Rachel Menken,Ralph Capone,Renaldo,Renly Baratheon,Robett Glover,Sally Wheet,Selyse Florent,Septa Mordane,Shireen Baratheon,Spider,Terrance "Fitz" Fitzhugh,Theresa D'Agostino,Tywin Lannister,Varys,Vicente Carrillo Fuentes,Wanahton,Xaro Xhoan Daxos,Yohn Royce
+Gabriella Dante==Ralph Capone
+Marina Ochoa==Theresa D'Agostino
+Gyp Rosetti==Megan Draper
+Ismael "El Mayo" Zambada==Renly Baratheon
+Kenny Moss==Renly Baratheon
+Anton "Stinkum" Artis==Jeor Mormont
+Elias "Eli" Thompson==Fabio Ochoa
+Terrance "Fitz" Fitzhugh==Selyse Florent
+Lancel Lannister==Gene Hofstadt
+Hot Pie==Bran Stark
+Terrance "Fitz" Fitzhugh==Angela
+Bran Stark==Connor Roy
+Anton "Stinkum" Artis==Bobby Draper
+Renly Baratheon==Enrique Clavel
+Ismael "El Mayo" Zambada==Enrique Clavel
+Marina Ochoa==Patsy Parisi
+Irri==Ellis Carver
+Enrique Clavel==Harrag
+Nick Sobotka==Rachel Menken
+Ralph Capone==Ellis Carver
+Septa Mordane==Enrique Clavel
+Gabriella Dante==Angela
+Selyse Florent==Edmure Tully
+Michael Steintorf==Federico Diaz
+Frank Vernon==Federico Diaz
+Mace Tyrell==Yohn Royce
+Wanahton==Angela
+Fruit==Renly Baratheon
+Connor Roy==Bobby Draper
+Gabriella Dante==Goldberg
+Leander Sydnor==Robett Glover
+Meyer Lansky==Nick Sobotka
+Arnold Rothstein==Xaro Xhoan Daxos
+Hot Pie==Connor Roy
+Anton "Stinkum" Artis==Edmure Tully
+Septa Mordane==Kenny Moss
+Shireen Baratheon==Enrique Clavel
+Septa Mordane==Hot Pie
+Tywin Lannister==Maeve's Daughter
+Gyp Rosetti==Theresa D'Agostino
+Irri==Angela
+Gabriella Dante==Wanahton
+Elias "Eli" Thompson==Ralph Capone
+Connor Roy==Angela
+Xaro Xhoan Daxos==Marina Ochoa
+Elias "Eli" Thompson==Edmure Tully
+Goldberg==Maling
+Olenna Tyrell==Renly Baratheon
+Agent Owen==Angela Darmody
+Marina Ochoa==Arnold Rothstein
+Kenny Moss==Jeor Mormont
+Ellis Carver==Spider
+Meyer Lansky==Wanahton
+Nick Sobotka==Rachel Menken
+Vicente Carrillo Fuentes==Selyse Florent
+Edward Bader==Renaldo
+Hot Pie==Rachel Menken
+Sally Wheet==Fabio Ochoa
+Ervin Burrell==Xaro Xhoan Daxos
+Pete Campbell==Ralph Capone
+Edward Bader==Robett Glover
+#
+"White" Mike McArdle,Agent Sebso,Akecheta,Albert "Chalky" White,Alys Karstark,Amado Carrillo Fuentes,Andrew Mellon,Angela,Angelo Buscetta,Anna Draper,Anthony "Tony B" Blundetto,Archmaester Ebrose,Arnold Rosen,Ash,Beric Dondarrion,Billy Chenowith,Bob Benson,Brandon Wright,Brompton,Bronn,Brynden Tully,Butch Sears,Carlos Lehder,Charles "Lucky" Luciano,Chris Feistl,Christeson,Chucho Peña,Clarence Royce,Claude Diggins,Claudia Messina,Clay Davis,Coleman Parker,Commander Guillermo González Calderoni,Dante,Dennis "Cutty" Wise,Deputy Foss,Diana Turbay,Dolores Abernathy,Doreah,Dr. Valentin Narcisse,Duck Phillips,Ed Norris,Eddie Walker,Eduard Asgarov,Edward Bader,Ellaria Sand,Ernesto "Don Neto" Fonseca Carrillo,Ervin Burrell,Eton Ben-Eleazer,Ewan Roy,Felicia "Snoop" Pearson,Felix Lutz,Francine Hanson,Francisco Rafael Arellano Félix,Frank Capone,Fruit,George Sibley,Gilberto Rodriguez,Gilly,Giovanni "Johnny Boy" Soprano,Gonzalo Rodríguez Gacha,Harald Karstark,Hector Escaton,Henry Francis,High Septon,Hizdahr zo Loraq,Hodor,Hot Pie,Ismael "El Mayo" Zambada,Iverson Roy,Jaime Kuykendall,Jamie Laird,Jane Sterling,Javier Arellano Félix,Javier Peña,Jay Landsman,Jess Jordan,Jimmy Asher,Joan Holloway,John Clay Walker,Johnny Torrio,Jorah Mormont,Juan José "El Azul" Esparragoza Moreno,Julia Sagorsky,Karolina Novotney,Kendall Roy,Kima Greggs,Lawrence's Daughter,Limón,Logan Roy,Lyanna Mormont,Maester Wolkan,Major Craddock,Mance Rayder,Marcia Roy,Margaery Tyrell,Marillion,Michael Lee,Michael Santangelo,Mika Camarena,Mrs. McGarry,Nat Coxson,Nate Sofrelli,Nelson "El Negrito" Hernández[10],Osha,Podrick Payne,Pypar,Qhono,Qhorin Halfhand,Qyburn,Rafael Aguilar Guajardo,Ralph Capone,Randy Wagstaff,Raymond Foerster,Reginald "Bubbles" Cousins,Rhea Jarrell,Robert Baratheon,Robin Arryn,Roger Knapp,Roger Twigg,Roman Roy,Rorge,Ros,Russell "Stringer" Bell,Ruth Fisher,Sal Orozco,Scott Templeton,Shireen Baratheon,Siobhan "Shiv" Roy,Sophie Roy,Steelshanks Walton,Sylvia Rosen,Talisa Maegyr,Tata Escobar,The Deacon,Thenn Warg,Thomas Buehl,Thoros of Myr,Three-Eyed Raven,Tomas Morlet,Tommy Carcetti,Varys,Vicente Carrillo Fuentes,Victor Tapia,Walon,Whitman,William "Man in Black",Xaro Xhoan Daxos,Ygritte,Young William
+Limón==Johnny Torrio
+Limón==Albert "Chalky" White
+Javier Peña==Ellaria Sand
+Ernesto "Don Neto" Fonseca Carrillo==Gilberto Rodriguez
+Jimmy Asher==Logan Roy
+Roger Knapp==Duck Phillips
+Arnold Rosen==Iverson Roy
+Bronn==Brompton
+Pypar==Agent Sebso
+Clay Davis==Jay Landsman
+Michael Lee==Beric Dondarrion
+Albert "Chalky" White==Ellaria Sand
+George Sibley==Vicente Carrillo Fuentes
+Logan Roy==Henry Francis
+"White" Mike McArdle==Sophie Roy
+Ernesto "Don Neto" Fonseca Carrillo==The Deacon
+Jamie Laird==Ervin Burrell
+Kendall Roy==Diana Turbay
+Ewan Roy==Talisa Maegyr
+Logan Roy==Dr. Valentin Narcisse
+Brandon Wright==Tommy Carcetti
+Alys Karstark==Thoros of Myr
+Nat Coxson==Brynden Tully
+Giovanni "Johnny Boy" Soprano==Andrew Mellon
+Coleman Parker==Edward Bader
+Albert "Chalky" White==Shireen Baratheon
+Whitman==Dennis "Cutty" Wise
+Dr. Valentin Narcisse==Lyanna Mormont
+Francine Hanson==Dolores Abernathy
+Michael Lee==Eduard Asgarov
+Sylvia Rosen==Beric Dondarrion
+Giovanni "Johnny Boy" Soprano==Rafael Aguilar Guajardo
+Whitman==Podrick Payne
+Gonzalo Rodríguez Gacha==Rorge
+Diana Turbay==Michael Lee
+Roger Knapp==Brompton
+Margaery Tyrell==Gonzalo Rodríguez Gacha
+Albert "Chalky" White==Kima Greggs
+Akecheta==William "Man in Black"
+Podrick Payne==High Septon
+Whitman==Bronn
+Duck Phillips==Edward Bader
+Joan Holloway==Russell "Stringer" Bell
+Ernesto "Don Neto" Fonseca Carrillo==Robin Arryn
+John Clay Walker==Siobhan "Shiv" Roy
+Jaime Kuykendall==Tomas Morlet
+Michael Lee==Francisco Rafael Arellano Félix
+Walon==Billy Chenowith
+Angelo Buscetta==Thoros of Myr
+Dr. Valentin Narcisse==Ervin Burrell
+Clarence Royce==Frank Capone
+Angelo Buscetta==Three-Eyed Raven
+Francine Hanson==Ismael "El Mayo" Zambada
+Albert "Chalky" White==Frank Capone
+Julia Sagorsky==Mika Camarena
+Tata Escobar==Harald Karstark
+Steelshanks Walton==Juan José "El Azul" Esparragoza Moreno
+Three-Eyed Raven==Jay Landsman
+"White" Mike McArdle==Sophie Roy
+Felicia "Snoop" Pearson==Dr. Valentin Narcisse
+Logan Roy==Talisa Maegyr
+Ash==Jane Sterling
+Michael Lee==Nat Coxson
+Thoros of Myr==Reginald "Bubbles" Cousins
+Ervin Burrell==Kima Greggs
+Eton Ben-Eleazer==Jorah Mormont
+Maester Wolkan==Limón
+Felix Lutz==Lawrence's Daughter
+Lyanna Mormont==Ash
+Vicente Carrillo Fuentes==Hot Pie
+Limón==Thomas Buehl
+Shireen Baratheon==George Sibley
+Michael Santangelo==Roger Knapp
+Hizdahr zo Loraq==Mrs. McGarry
+Steelshanks Walton==Roger Twigg
+Qhono==Sylvia Rosen
+Kima Greggs==Sal Orozco
+Nate Sofrelli==Gilberto Rodriguez
+Fruit==Amado Carrillo Fuentes
+Varys==Roger Knapp
+Amado Carrillo Fuentes==Young William
+High Septon==Joan Holloway
+Rafael Aguilar Guajardo==Henry Francis
+Hot Pie==Mance Rayder
+Mrs. McGarry==Karolina Novotney
+Javier Arellano Félix==Edward Bader
+Clarence Royce==George Sibley
+Ellaria Sand==Felicia "Snoop" Pearson
+Siobhan "Shiv" Roy==Jimmy Asher
+Michael Lee==Billy Chenowith
+Rhea Jarrell==Jess Jordan
+Albert "Chalky" White==Diana Turbay
+Lyanna Mormont==Whitman
+Lawrence's Daughter==Rafael Aguilar Guajardo
+Mance Rayder==Ervin Burrell
+Ellaria Sand==Victor Tapia
+Victor Tapia==Juan José "El Azul" Esparragoza Moreno
+Felix Lutz==Varys
+Arnold Rosen==Nat Coxson
+Lyanna Mormont==Dr. Valentin Narcisse
+Ros==Ernesto "Don Neto" Fonseca Carrillo
+Arnold Rosen==Chucho Peña
+"White" Mike McArdle==Marillion
+Giovanni "Johnny Boy" Soprano==Thomas Buehl
+"White" Mike McArdle==Jaime Kuykendall
+Clarence Royce==Francine Hanson
+Brynden Tully==Carlos Lehder
+Hot Pie==Jess Jordan
+Ernesto "Don Neto" Fonseca Carrillo==Michael Santangelo
+Dr. Valentin Narcisse==Brandon Wright
+Vicente Carrillo Fuentes==Francine Hanson
+Nate Sofrelli==Dante
+Anthony "Tony B" Blundetto==Roger Knapp
+Hizdahr zo Loraq==Javier Peña
+Rorge==Clarence Royce
+Gilly==Whitman
+Ellaria Sand==Vicente Carrillo Fuentes
+Logan Roy==Steelshanks Walton
+Thomas Buehl==Eddie Walker
+Randy Wagstaff==Claude Diggins
+Eduard Asgarov==Hector Escaton
+Three-Eyed Raven==Hector Escaton
+Claudia Messina==Andrew Mellon
+Christeson==Billy Chenowith
+Lawrence's Daughter==Brompton
+Hodor==Chucho Peña
+Brynden Tully==Iverson Roy
+Jay Landsman==Russell "Stringer" Bell
+Eton Ben-Eleazer==Albert "Chalky" White
+Doreah==Amado Carrillo Fuentes
+Xaro Xhoan Daxos==Ruth Fisher
+Kendall Roy==Chris Feistl
+Qhono==Osha
+Lawrence's Daughter==Ash
+Julia Sagorsky==Clay Davis
+Russell "Stringer" Bell==Arnold Rosen
+Steelshanks Walton==Claude Diggins
+Siobhan "Shiv" Roy==Michael Santangelo
+Francine Hanson==Giovanni "Johnny Boy" Soprano
+#
